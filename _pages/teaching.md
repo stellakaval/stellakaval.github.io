@@ -7,6 +7,29 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# CS61B  
 
-Organize your courses by years, topics, or universities, however you like!
+| Topic                               | Worksheet     | Slides | Video |
+| :---------------------------------- | :------------ | :----- | :---- |
+| Introduction to Java                | Discussion 1  | slides | video |
+| Scope, Static, Linked Lists, Arrays | Discussion 2  | slides | video |
+| Inheritance                         | Discussion 3  | slides | video |
+| Iterators, Iterables, Polymorphism  | Discussion 4  | slides | video |
+| Asymptotics, Disjoint Sets          | Discussion 5  | slides | video |
+| ADTs, Asymptotics, BSTs             | Discussion 6  | slides | video |
+| B-Trees, LLRBs, Hashing             | Discussion 7  | slides | video |
+| Graphs, Heaps                       | Discussion 8  | slides | video |
+| Shortest Paths, MSts                | Discussion 9  | slides | video |
+| Graphs II, Tries                    | Discussion 10 | slides | video |
+| Sorting                             | Discussion 11 | slides | video |
+
+---
+
+# Cheatsheets  
+
+| Course | Final Review Sheet |
+| :----- | :----------------- |
+| CS61A  | link               |
+| CS61B  | link               |
+| CS70   | link               |
+| CS61C  | link               |

@@ -3,24 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Stella
+middle_name: 
+last_name: Kaval
+email: stellakaval@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+  Stella Kaval's personal website
+footer_text: 
+keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⭐️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+url: https://stellakaval.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -52,7 +49,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -106,9 +103,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+contact_note: 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -123,18 +118,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Stella's Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Stella Kaval's personal blog
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 1
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
@@ -178,7 +173,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -265,8 +260,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['berkeley', 'compsci', 'teaching'] # these tags will be displayed on the front page of your blog
+display_categories: ['tips'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -356,9 +351,9 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_cronitor_analytics: false  # enables cronitor RUM analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
@@ -370,7 +365,7 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions
