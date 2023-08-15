@@ -2,7 +2,7 @@
 layout: page
 title: Deque
 description: Data Structures Class
-img: assets/img/12.jpg
+img: assets/img/deque.jpeg
 importance: 1
 category: Java
 ---

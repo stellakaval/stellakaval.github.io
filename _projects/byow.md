@@ -2,7 +2,7 @@
 layout: page
 title: Build Your Own World
 description: Custom Game
-img: assets/img/12.jpg
+img: assets/img/byow.jpeg
 importance: 1
 category: Java
 ---

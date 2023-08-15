@@ -2,7 +2,7 @@
 layout: page
 title: Hog
 description: Dice Game
-img: assets/img/dice.jpg
+img: assets/img/hog.png
 importance: 1
 category: Python
 ---

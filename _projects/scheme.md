@@ -2,7 +2,7 @@
 layout: page
 title: Scheme Interpreter
 description: Translation from Python to Scheme
-img: assets/img/12.jpg
+img: assets/img/scheme.png
 importance: 1
 category: Python
 ---

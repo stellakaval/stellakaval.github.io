@@ -2,7 +2,7 @@
 layout: page
 title: CPU
 description: Central Processing Unit Simulation
-img: assets/img/12.jpg
+img: assets/img/proj3_pipeline.png
 importance: 1
 category: Logisim
 ---
