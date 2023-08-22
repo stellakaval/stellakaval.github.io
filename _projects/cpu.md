@@ -7,4 +7,4 @@ importance: 1
 category: Logisim
 ---
 
-This is a description of the project yay
+Description coming soon!

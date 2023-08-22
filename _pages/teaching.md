@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for Fall 2023 CS61B
 nav: true
 nav_order: 5
 ---
 
-# CS61B  
+# Bridge Discussions  
 
 | Topic                               | Worksheet     | Slides | Video |
 | :---------------------------------- | :------------ | :----- | :---- |

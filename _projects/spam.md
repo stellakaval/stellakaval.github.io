@@ -7,4 +7,4 @@ importance: 1
 category: Python
 ---
 
-This is a description of the project yay
+Description coming soon!

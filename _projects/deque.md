@@ -7,4 +7,4 @@ importance: 1
 category: Java
 ---
 
-This is a description of the project yay
+Description coming soon!
