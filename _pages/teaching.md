@@ -33,20 +33,42 @@ nav_order: 5
 
 # Lab Materials
 
-| Topic                 | Slides |
-| :-------------------- | :----- |
-| IntelliJ, Git         | slides |
-| Debugging             | slides |
-| Timing                | slides |
-| Project 1 Worksession | slides |
+| Topic                 | Slides | Helpful Resources                                                                                                                        |
+| :-------------------- | :----- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| IntelliJ, Git         | slides | Stella's Git and Terminal [Cheatsheet](https://docs.google.com/document/d/1OPKYPxTduioZBgba7WIxaSs32KjolvJqeouaDyj-l9w/edit?usp=sharing) |
+| Debugging             | slides |                                                                                                                                          |
+| Timing                | slides |                                                                                                                                          |
+| Project 1 Worksession | slides |                                                                                                                                          |
+
+---
+
+### CS61B Resources
+
+- Java [practice problems](https://codingbat.com/java) to solidify your understanding + problem solving
+- Midterm 1 Review Session slides [here](https://docs.google.com/presentation/d/1CzdtC_dOJh3pT5Bm8As3qgWsEN1ShejckZ-7ic0wtvE/edit#slide=id.p) and another [here](https://docs.google.com/presentation/d/1coAEfg8GOdinlSUuqgEVMspBSmizWxON_5UBB1BSR0E/edit#slide=id.g1121a7fb9e7_1_246) with practice problems
+- [Owen's Cheat Sheet](https://docs.google.com/document/d/1PMoL1xJ9xa6ywQQ8HCc1oxLf2TUCiCaKaatlKYv6RZw/edit) (Runtime + Data Structures)
+- Linked List [examples](https://www.notion.so/61B-Midterm-2-Review-60e3bc444b7148689283d2d7ae087df2) (M2 prep)
+- Allyson's [YouTube](https://www.youtube.com/@allysonpark7561/videos) Discussion Walkthroughs
+- Anjali's [Youtube](https://www.youtube.com/watch?v=gG4--V_PpEk&list=PLjuu7kFWxFtZBm-5GifiVpqdAxeW7Hsax) Discussion Walkthroughs
+
+---
+
+### General CS Resources
+
+- Reserve a library room [here](https://berkeley.libcal.com/)
+- HKN's EECS & Computer Science [course map](https://hkn.eecs.berkeley.edu/courseguides)
+- The perfectly formatted CS [resume template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
+- L&S CS [Frequently Asked Questions + Answers](https://docs.google.com/document/d/1lXS8r2HXTR5-YWIeZyeEdnTrpAWyuWjzKZ2q1yty4Gc/edit)
+- [List](https://github.com/pittcsc/Summer2023-Internships) of open CS internships
+- Best way to prepare for coding interviews = [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- LS CS Degree Checklist [Spreadsheet](https://docs.google.com/spreadsheets/d/1B6zPLbDxEbJRuztli-CSISmgys863mSp/edit?usp=sharing&ouid=114495454374204890710&rtpof=true&sd=true)
+- Questions + more... join [r/berkeley](https://www.reddit.com/r/berkeley/) and [r/csmajors](https://www.reddit.com/r/csMajors/)
 
 ---
 
 # Cheatsheets
 
-| Course | Final Review Sheet |
-| :----- | :----------------- |
-| CS61A  | link               |
-| CS61B  | link               |
-| CS70   | link               |
-| CS61C  | link               |
+| Course | Final Review Sheet                                                                         |
+| :----- | :----------------------------------------------------------------------------------------- |
+| CS70   | [link](https://drive.google.com/file/d/1i8UCPDpPkVqZ61dr-Kk9qSJkFFzJytlE/view?usp=sharing) |
+| CS61C  | [link](https://drive.google.com/file/d/1TXBxlz_rQN9kKdQa-B8fJwp54sUvq7Wj/view?usp=sharing) |
