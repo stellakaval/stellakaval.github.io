@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+# General
+* [Feedback Form](https://forms.gle/R8NWKbvf7rEkuQ9d9)
+* [1 on 1 Meeting Scheduler](https://calendly.com/stellakaval/30min)
+* Office Hours: Monday 12:00-2:00 PM, Tuesday 10:00-11:00 AM
+
 # Bridge Discussions  
 
 | Topic                               | Worksheet     | Slides | Video |
