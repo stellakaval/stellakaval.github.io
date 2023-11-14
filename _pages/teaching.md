@@ -15,20 +15,21 @@ nav_order: 5
 
 # Discussion Materials
 
-| Topic                               | Worksheet            | Slides                              | Video        | More Resources!       |
-| ----------------------------------- | -------------------- | ------------------------------------ | ------------ | --------------------- |
-| Introduction to Java                | [regular02.pdf][W2]  | [Slides][S2] / [Annotated][A2]      | [Video][V2]  | [Java Reference][R2]  |
-| Scope, Linked Lists, Arrays         | [regular03.pdf][W3]  | [Slides][S3] / [Annotated][A3]      | [Video][V3]  | [Linked List Reference][R3]  |
-| Inheritance                         | [regular04.pdf][W4]  | [Slides][S4] / [Annotated][A4]      | [Video][V4]  | [DMS Reference][R4]  |
-| Iterators, Iterables                | [regular05.pdf][W5]  | [Slides][S5] / [Annotated][A5]      | [Video][V5]  | [Iterator/able Reference][R5]  |
-| Asymptotics, Disjoint Sets          | [regular06.pdf][W6]  | [Slides][S6] / [Annotated][A6]      | [Video][V6]  | [Asymptotics Guide][R6]  |
-| ADTs, Asymptotics, BSTs             | [regular07.pdf][W7]  | [Slides][S7] / [Annotated][A7]      | [Video][V7]  | [Asymptotics Video][R7]  |
-| B-Trees, LLRBs, Hashing             | [regular08.pdf][W8]  | [Slides][S8] / [Annotated][A8]      | [Video][V8]  | [Tree Practice Problems][R8]  |
-| Graphs, Heaps                       | [regular09.pdf][W9]  | [Slides][S9] / [Annotated][A9]      | [Video][V9]  | [My MT2 Cheatsheet][R9]  |
-| Shortest Paths, MSTs                | [regular10.pdf][W10] | [Slides][S10] / [Annotated][A10]    | [Video][V10] | [Proj2B Intro Slides][R10] |
-| Graphs II, Tries                    | [regular11.pdf][W11] | [Slides][S11] / [Annotated][A11]    | [Video][V11] | [SWE Guest Lecture][R11] |
-| Sorting                             | [regular11.pdf][W12] | [Slides][S12] / [Annotated][A12]    | [Video][V12] | [Sorting Youtube][R12] |
-| More Sorting                        | [regular11.pdf][W13] | [Slides][S13] / [Annotated][A13]    | [Video][V13] | [Quicksort Demo][R13] |
+| Topic                       | Worksheet            | Slides                           | Video        | More Resources!               |
+| --------------------------- | -------------------- | -------------------------------- | ------------ | ----------------------------- |
+| Introduction to Java        | [regular02.pdf][W2]  | [Slides][S2] / [Annotated][A2]   | [Video][V2]  | [Java Reference][R2]          |
+| Scope, Linked Lists, Arrays | [regular03.pdf][W3]  | [Slides][S3] / [Annotated][A3]   | [Video][V3]  | [Linked List Reference][R3]   |
+| Inheritance                 | [regular04.pdf][W4]  | [Slides][S4] / [Annotated][A4]   | [Video][V4]  | [DMS Reference][R4]           |
+| Iterators, Iterables        | [regular05.pdf][W5]  | [Slides][S5] / [Annotated][A5]   | [Video][V5]  | [Iterator/able Reference][R5] |
+| Asymptotics, Disjoint Sets  | [regular06.pdf][W6]  | [Slides][S6] / [Annotated][A6]   | [Video][V6]  | [Asymptotics Guide][R6]       |
+| ADTs, Asymptotics, BSTs     | [regular07.pdf][W7]  | [Slides][S7] / [Annotated][A7]   | [Video][V7]  | [Asymptotics Video][R7]       |
+| B-Trees, LLRBs, Hashing     | [regular08.pdf][W8]  | [Slides][S8] / [Annotated][A8]   | [Video][V8]  | [Tree Practice Problems][R8]  |
+| Graphs, Heaps               | [regular09.pdf][W9]  | [Slides][S9] / [Annotated][A9]   | [Video][V9]  | [My MT2 Cheatsheet][R9]       |
+| Shortest Paths, MSTs        | [regular10.pdf][W10] | [Slides][S10] / [Annotated][A10] | [Video][V10] | [Proj2B Intro Slides][R10]    |
+| Graphs II, Tries            | [regular11.pdf][W11] | [Slides][S11] / [Annotated][A11] | [Video][V11] | [SWE Guest Lecture][R11]      |
+| Sorting                     | [regular11.pdf][W12] | [Slides][S12] / [Annotated][A12] | [Video][V12] | [Sorting Youtube][R12]        |
+| More Sorting                | [regular11.pdf][W13] | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]         |
+| Final Review                |                      |                                  |              |                               |
 
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
@@ -42,7 +43,6 @@ nav_order: 5
 [W11]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular11.pdf
 [W12]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular12.pdf
 [W13]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular13.pdf
-
 [S2]: https://docs.google.com/presentation/d/1zmtJ-XOSdg5a4tth2-Ib08LBVvcEBbQGVfQhG4jGtnQ/edit?usp=sharing
 [S3]: https://docs.google.com/presentation/d/1boE_rlHiKg6gjNji6_o_35TwQADWdVP34EyF6Pr-ki8/edit?usp=sharing
 [S4]: https://docs.google.com/presentation/d/1A4RVuZv5KBWbs1Y0quqsJWhaiDZJwuo_xOLUMoCWk18/edit?usp=sharing
@@ -55,7 +55,6 @@ nav_order: 5
 [S11]: https://docs.google.com/presentation/d/1BP_xEkOp65PBFkKaKa3CFZcvhwlPZLxAFm6a6fnQgNc/edit?usp=sharing
 [S12]: https://docs.google.com/presentation/d/1N5LlO2-HjASYCruRy-h9aWxWiOgFCI0vvGSwzZxya88/edit?usp=sharing
 [S13]: https://docs.google.com/presentation/d/1rJQR_d5xf_AZgykfpcUOn8iF9LkiURup60J6H2FJRFY/edit?usp=sharing
-
 [A2]: https://drive.google.com/file/d/1Q3FvgNW3Xhou-yZ82hnBOOm91CaOUMBg/view?usp=sharing
 [A3]: https://drive.google.com/file/d/1vnBLbAynF4Lj-M_kKxmOdaihbfTpIn00/view?usp=sharing
 [A4]: https://drive.google.com/file/d/1c58mcHNM4bhX4IAUtI0XWUpTYDJwqb77/view?usp=sharing
@@ -68,7 +67,6 @@ nav_order: 5
 [A11]: https://drive.google.com/file/d/1qTxpSugRQNRoff0Hiv-9ILorcxbeYpeZ/view?usp=sharing
 [A12]: https://drive.google.com/file/d/1I1EfF2V8kRmO3rSXNdisj9S7sR--aL8i/view?usp=sharing
 [A13]: https://drive.google.com/file/d/1aPjuk2jLXNTifBn25a4M5WMlFBPCDu6b/view?usp=sharing
-
 [V2]: https://youtu.be/5d8e3W52jEM
 [V3]: https://youtu.be/VWf05n0C1_0?feature=shared
 [V4]: https://www.youtube.com/watch?v=Y96iFd6xslI
@@ -81,7 +79,6 @@ nav_order: 5
 [V11]: https://www.youtube.com/playlist?list=PLnp31xXvnfRrD3GyILak06gbTN0rbKJat
 [V12]: https://www.youtube.com/playlist?list=PLnp31xXvnfRqxJ0qF1CglXRb-Qb-oNOgs
 [V13]: https://www.youtube.com/playlist?list=PLnp31xXvnfRrpqJ8WTjbBOwSNFg54wQDT
-
 [R2]: https://introcs.cs.princeton.edu/java/11cheatsheet/
 [R3]: https://www.geeksforgeeks.org/linked-list-in-java/
 [R4]: https://drive.google.com/file/d/196cUaEA0Q9aJBbr4Tm43_ybMDuxYcZDp/view?usp=sharing
