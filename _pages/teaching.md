@@ -28,8 +28,8 @@ nav_order: 5
 | Shortest Paths, MSTs        | [regular10.pdf][W10] | [Slides][S10] / [Annotated][A10] | [Video][V10] | [Proj2B Intro Slides][R10]    |
 | Graphs II, Tries            | [regular11.pdf][W11] | [Slides][S11] / [Annotated][A11] | [Video][V11] | [SWE Guest Lecture][R11]      |
 | Sorting                     | [regular11.pdf][W12] | [Slides][S12] / [Annotated][A12] | [Video][V12] | [Sorting Youtube][R12]        |
-| More Sorting                | [regular11.pdf][W13] | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]         |
-| Final Review                |                      |                                  |              |                               |
+| More Sorting                | [regular12.pdf][W13] | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]         |
+| Final Review                |                      | [Slides][S14]                    |              | [Exam Studying Guide][R14]    |
 
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
@@ -55,6 +55,7 @@ nav_order: 5
 [S11]: https://docs.google.com/presentation/d/1BP_xEkOp65PBFkKaKa3CFZcvhwlPZLxAFm6a6fnQgNc/edit?usp=sharing
 [S12]: https://docs.google.com/presentation/d/1N5LlO2-HjASYCruRy-h9aWxWiOgFCI0vvGSwzZxya88/edit?usp=sharing
 [S13]: https://docs.google.com/presentation/d/1rJQR_d5xf_AZgykfpcUOn8iF9LkiURup60J6H2FJRFY/edit?usp=sharing
+[S14]: https://docs.google.com/presentation/d/1mBdYTOhUkpU8jFKsqPCm-iyUMI_aQRGYHQr0kiNmAgU/edit?usp=sharing
 [A2]: https://drive.google.com/file/d/1Q3FvgNW3Xhou-yZ82hnBOOm91CaOUMBg/view?usp=sharing
 [A3]: https://drive.google.com/file/d/1vnBLbAynF4Lj-M_kKxmOdaihbfTpIn00/view?usp=sharing
 [A4]: https://drive.google.com/file/d/1c58mcHNM4bhX4IAUtI0XWUpTYDJwqb77/view?usp=sharing
@@ -91,6 +92,7 @@ nav_order: 5
 [R11]: https://www.youtube.com/watch?v=LCibXajLbns
 [R12]: https://www.youtube.com/@HackerrankOfficial/search?query=sorting
 [R13]: https://www.youtube.com/watch?app=desktop&v=KBGQ3xGofN0
+[R14]: https://cs61a.org/articles/studying/
 
 ---
 
