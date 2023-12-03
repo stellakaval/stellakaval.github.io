@@ -29,7 +29,7 @@ nav_order: 5
 | Graphs II, Tries            | [regular11.pdf][W11] | [Slides][S11] / [Annotated][A11] | [Video][V11] | [SWE Guest Lecture][R11]      |
 | Sorting                     | [regular11.pdf][W12] | [Slides][S12] / [Annotated][A12] | [Video][V12] | [Sorting Youtube][R12]        |
 | More Sorting                | [regular12.pdf][W13] | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]         |
-| Final Review                |                      | [Slides][S14]                    |              | [Exam Studying Guide][R14]    |
+| Final Review                |  [Kahoot][W14]                    | [Slides][S14]                    |              | [Exam Studying Guide][R14]    |
 
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
@@ -43,6 +43,7 @@ nav_order: 5
 [W11]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular11.pdf
 [W12]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular12.pdf
 [W13]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular13.pdf
+[W14]: https://create.kahoot.it/share/cs61b-final-kahoot/37dfa0dd-7c95-458a-b529-f4d471cc7dab
 [S2]: https://docs.google.com/presentation/d/1zmtJ-XOSdg5a4tth2-Ib08LBVvcEBbQGVfQhG4jGtnQ/edit?usp=sharing
 [S3]: https://docs.google.com/presentation/d/1boE_rlHiKg6gjNji6_o_35TwQADWdVP34EyF6Pr-ki8/edit?usp=sharing
 [S4]: https://docs.google.com/presentation/d/1A4RVuZv5KBWbs1Y0quqsJWhaiDZJwuo_xOLUMoCWk18/edit?usp=sharing
