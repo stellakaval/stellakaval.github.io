@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Below you will find some of the projects I have completed in the past few years. If you are interested in my code, feel free to reach out to me at stellakaval@berkeley.edu.
+description: 
 nav: true
 nav_order: 2
-display_categories: [Python, Java, C, Logisim]
+display_categories: [Java, Python, C, Go, Logisim]
 horizontal: false
 ---
 

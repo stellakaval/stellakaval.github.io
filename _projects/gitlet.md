@@ -6,11 +6,22 @@ img: assets/img/git.png
 importance: 1
 category: Java
 ---
+## Overview
 
-<div>
+Gitlet is a simplified version control system inspired by Git, designed to manage project history, restore previous versions, and facilitate collaboration among developers.
 
-Gitlet is a version control system that allows you to save, restore, and view the history of your project, as well as maintain and switch between different versions of your files. It is a simpler and smaller version of the popular version control system Git.
+## Description
 
-I gained experience with file manipulation, serialization techniques, and working with complex data structures such as linked lists. I also learned about version control systems and how they are used to track changes to files and projects. I had the opportunity to replicate key features of a version control system, such as adding, committing, removing, branching, and merging changes. These skills required me to practice debugging and problem-solving as I worked through the challenges of implementing these features. Additionally, I had to create a design document outlining the overall architecture and design of my implementation, as well as unit tests to ensure that my code was correct and reliable.
+- Utilized Java, Git, and Markdown to develop a version control system, consisting of 1000+ lines of code and 6 Java classes
+- Implemented data persistence through serialization, leveraging Java's Object Output/Input Stream libraries and the BFS
+algorithm to efficiently serialize Java objects into binary data for seamless storage and retrieval of version control data
+- Conducted 30 integration tests using JUnit, covering various functionalities such as commit, merge, and rollback operations
+- [Project Specification](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj3/index.html)
 
-</div>
+## Skills
+
+- File Manipulation
+- Serialization
+- Data Structures
+- Debugging
+- Problem-Solving

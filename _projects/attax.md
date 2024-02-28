@@ -1,10 +1,25 @@
 ---
 layout: page
 title: Attax
-description: Board Game
+description: Strategic Board Game with AI
 img: assets/img/attax.png
 importance: 1
 category: Java
 ---
 
-Attax is a board game played on a 7x7 grid with red and blue pieces. Players can either extend their own pieces by placing a new piece next to an existing one, or jump to an empty square that is no more than two rows and columns away. The goal is to have the most pieces on the board when no more moves are possible or after 25 jumps with no intervening extends. Players can also place blocks on the board to restrict movement. The winner is the player with the most pieces at the end of the game. While working on the Attax project, I learned how to implement and use various data structures such as lists, dictionaries, and sets. I also practiced using control statements such as if-else statements and while loops to execute different actions based on certain conditions. Additionally, I learned how to design and implement an automated player using artificial intelligence techniques such as minimax and alpha-beta pruning. I also gained experience in creating a GUI interface for the game and handling user input.
+## Overview
+
+In Attax, I developed a Java-based board game played on a 7x7 grid with red and blue pieces.
+
+## Description
+
+- [Project Specification](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj2/index.html)
+- Moves include extending pieces next to existing ones or jumping to empty squares within a two-row and two-column distance.
+- Blocks can be placed on the board to restrict movement
+
+## Skills
+
+- Implementation of data structures like lists, dictionaries, and sets
+- Utilization of control statements such as if-else statements and while loops
+- Design and implementation of an automated player using artificial intelligence techniques like minimax and alpha-beta pruning
+- Creation of a GUI interface for the game and handling user input
