@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gitlet
-description: Mini Version Control System
+description: Gitlet is a simplified version control system inspired by Git, designed to manage project history, restore previous versions, and facilitate collaboration among developers.
 img: assets/img/git.png
 importance: 1
 category: Java

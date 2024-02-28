@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Spam vs. Ham
-description: Spam Email Detector
+description: In the Spam vs. Ham project, the goal is to create a classifier capable of distinguishing spam emails from legitimate ones (ham).
 img: assets/img/spam.png
 importance: 1
 category: Python
 ---
 ## Overview 
-In the Spam vs. Ham project, the goal is to create a classifier capable of distinguishing spam emails from legitimate ones (ham). The project involves feature engineering, logistic regression, and cross-validation techniques to develop an effective spam detection model.
+In the Spam vs. Ham project, the goal is to create a classifier capable of distinguishing spam emails from legitimate ones (ham). 
 
 ## Description
-
+- The project involves feature engineering, logistic regression, and cross-validation techniques to develop an effective spam detection model
 - Created classifier that can distinguish between spam emails from ham (non-spam) emails using feature engineering and
 logistic regression with text data and sklearn to fit models
 - Achieved 90% accuracy on a 1000 email test set

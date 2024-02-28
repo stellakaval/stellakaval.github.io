@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CS61kaChow
-description: Matrix Opperations
+description: NumC is a project focused on implementing matrix operations in C, inspired by the functionality of the numpy library in Python.
 img: assets/img/row_major.jpg
 importance: 1
 category: C

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deque
-description: Data Structures Class
+description: Deque involves building implementations of a Double Ended Queue (Deque) using both linked lists and arrays.
 img: assets/img/deque.jpeg
 importance: 1
 category: Java
@@ -9,7 +9,7 @@ category: Java
 
 ## Overview
 
-This project, focusing on data structures, involves building implementations of a Double Ended Queue (Deque) using both linked lists and arrays.
+Deque involves building implementations of a Double Ended Queue (Deque) using both linked lists and arrays.
 
 ## Description
 
@@ -18,7 +18,6 @@ This project, focusing on data structures, involves building implementations of 
 - These files contain public methods to implement a deque data structure
 
 ## Skills
-
 - Understanding of Linked Lists and Arrays
 - Implementation of Deque Operations
 - Working Collaboratively
