@@ -16,8 +16,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Stella, a Computer Science student at UC Berkeley. 👋
-
-My current interests include CS education, AI, and UX design. I actively advocate for women in STEM, aiming to bridge the gender gap through the CS Kickstart program at UC Berkeley. 
-
-I'm driven by the potential of technology to bring about positive change and empower others. Let's <a href='https://www.linkedin.com/in/stellakaval'>connect</a> and collaborate on meaningful opportunities!
+Hello! I’m Stella, a senior studying Computer Science at UC Berkeley. 👋 I'm passionate about CS education, full-stack development, and emerging technologies. Through my work with UC Berkeley's CS Kickstart program, I actively advocate for women in STEM, believing in technology's power to create positive change and empower others. As I prepare to graduate in 2025, I am seeking full-time Software Engineering roles where I can apply my skills and passions to impactful projects. Let’s connect and explore meaningful opportunities!
+              

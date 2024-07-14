@@ -13,11 +13,28 @@
       institution: University of California, Berkeley
       year: 08/2021 - 05/2025
       description:
-          - Data Structures, Algorithms, Computer Architecture, Discrete Mathematics and Probability Theory, Computer Security, Principles and Techniques of Data Science, Systems and Devices, Web Development
+          - Data Structures, Algorithms, Computer Architecture, Discrete Mathematics and Probability Theory, Computer Security, Principles and Techniques of Data Science, Systems and Devices, Web Development, Artificial Intelligence
 
 - title: Work Experience
   type: time_table
   contents:
+    - title: Software Engineer Intern
+      institution: Microsoft
+      year: 05/2024 - 08/2024
+      description:
+        - Automated global expansion of Azure cloud and networking services in collaboration with the Capacity Infrastructure team
+        - Developed and delivered new product capabilities from the ground up, optimizing user experience with a full-stack microservice; utilized TypeScript, React, and C#, accelerating team workflows by iterating quickly on feedback
+        -	Engineered data solutions for gap analysis and algorithms, enhancing the accuracy of service availability predictions
+
+
+    - title: Teaching Assistant
+      institution: UC Berkeley Electrical Engineering and Computer Science Department
+      year: 01/2023 - 01/2024
+      description:
+        - Instructed 24 students each week through a 1-hour discussion and 2-hour lab section, covering topics such as Object-Oriented Programing, Data Structures, Sorting Algorithms, Trees, Software Development, Recursion, and Asymptotic Analysis
+        - Developed course materials, authored portions of the textbook, created challenging exam problems, proctored midterms, graded assignments, curated video content, and provided support during 3-hour weekly office hours for 1500+ student class
+        - Earned teaching effectiveness rating of 6.9/7, surpassing the departmental average of 6.3
+
     - title: Software Engineer Intern
       institution: Oracle
       year: 05/2023 - 08/2023
@@ -25,14 +42,6 @@
         - Developed a full-stack UX feedback tool within Oracle Cloud Infrastructure for 43,000+ internal user guides and 492 teams
         - Created a feedback system using agile practices to collect user attributes (ex. ID, category, region) from individual services, facilitating efficient distribution to teams and resulting in ~2x speed improvement to issue resolution
         - Implemented automated testing with Jest and Enzyme in the React-based application, with a focus on rendering components, handling UI interactions, and validating post requests, achieving 100% test coverage
-
-    - title: 8-Hour Teaching Assistant
-      institution: UC Berkeley Electrical Engineering and Computer Science Department
-      year: 01/2023 - 05/2023
-      description:
-        - Instructed 24 students each week through a 1-hour discussion and 2-hour lab section, covering topics such as Object-Oriented Programing, Data Structures, Sorting Algorithms, Trees, Software Development, Recursion, and Asymptotic Analysis
-        - Developed course materials, authored portions of the textbook, created challenging exam problems, proctored midterms, graded assignments, curated video content, and provided support during 3-hour weekly office hours for 1500+ student class
-        - Earned teaching effectiveness rating of 6.9/7, surpassing the departmental average of 6.3
 
     - title: Research Assistant
       institution: UC Berkeley Data Science Discovery
@@ -63,6 +72,9 @@
   contents:
     - year: 2023
       items: 
-        - Grace Hopper Conference Scholarship
-        - Tapia Conference Scholarship 
+        - Grace Hopper Conference Scholarship (UC Berkeley EECS Dept)
+        - Tapia Conference Scholarship (UC Berkeley EECS Dept)
         - NCWIT Campus Representative
+        - Accel Scholar
+        - Fung Fellowship
+        
