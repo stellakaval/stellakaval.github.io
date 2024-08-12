@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-12T11:11:55+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Stella Kaval</title><subtitle>Hi! I&apos;m Stella, a senior majoring in Computer Science at UC Berkeley. I&apos;m passionate about making coding more accessible and beginner-friendly 🖥️, addressing the environmental impacts of technology 🌱, and spreading positivity 😊. Outside the classroom, you might find me slurping up an iced vanilla latte ☕, capturing sunset pics on the Berkeley fire trails 🌅, binge-watching Survivor 🏝️, or having a Harry Potter movie marathon 🧙‍♀️!</subtitle><author><name>Stella Kaval</name><email>stellakaval@berkeley.edu</email></author><entry><title type="html">UC Berkeley CS Resource List 🔗</title><link href="http://localhost:4000/resources/" rel="alternate" type="text/html" title="UC Berkeley CS Resource List 🔗" /><published>2024-08-11T09:45:47+07:00</published><updated>2024-08-11T09:45:47+07:00</updated><id>http://localhost:4000/resources</id><content type="html" xml:base="http://localhost:4000/resources/"><![CDATA[<h3 id="course-materials">Course Materials</h3>
+
+<ul>
+  <li><a href="https://docs.google.com/document/d/1PMoL1xJ9xa6ywQQ8HCc1oxLf2TUCiCaKaatlKYv6RZw/edit">CS61B Final Cheatsheet</a></li>
+  <li><a href="https://drive.google.com/file/d/1i8UCPDpPkVqZ61dr-Kk9qSJkFFzJytlE/view?usp=sharing">CS70 Final Cheatsheet</a></li>
+  <li><a href="https://drive.google.com/file/d/1TXBxlz_rQN9kKdQa-B8fJwp54sUvq7Wj/view?usp=sharing">CS61C Final Cheatsheet</a></li>
+  <li><a href="https://jshen13.github.io/notes/fa21/cs161_fs.pdf">CS161 Final Cheatsheet</a></li>
+</ul>
+
+<h3 id="campus-resources">Campus Resources</h3>
+
+<ul>
+  <li><a href="https://berkeley.libcal.com/">Library Room Reservations</a></li>
+</ul>
+
+<h3 id="cs-major">CS Major</h3>
+
+<ul>
+  <li><a href="https://docs.google.com/document/d/1lXS8r2HXTR5-YWIeZyeEdnTrpAWyuWjzKZ2q1yty4Gc/edit#heading=h.h54zy37ytq0l">CDSS FAQ</a></li>
+  <li><a href="https://hkn.eecs.berkeley.edu/courseguides">HKN EECS &amp; Computer Science Course Map</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1B6zPLbDxEbJRuztli-CSISmgys863mSp/edit?usp=sharing&amp;ouid=114495454374204890710&amp;rtpof=true&amp;sd=true">L&amp;S CS Degree Checklist</a></li>
+  <li><a href="https://www.reddit.com/r/berkeley/">Reddit: r/berkeley</a></li>
+</ul>
+
+<h3 id="professional-resources">Professional Resources</h3>
+
+<ul>
+  <li><a href="https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs">Latex Resume Template</a></li>
+  <li><a href="https://github.com/pittcsc/Summer2025-Internships">Pitt’s List of Open CS Internships</a></li>
+  <li><a href="https://careerservices.fas.harvard.edu/resources/technology-internships-for-first-years-and-sophomores/">Freshman/Sophomore Internship List</a></li>
+  <li><a href="https://www.techinterviewhandbook.org/grind75">Grind 75 Coding Interview Prep</a></li>
+</ul>
+
+<hr />]]></content><author><name>Stella Kaval</name><email>stellakaval@berkeley.edu</email></author><summary type="html"><![CDATA[Course Materials]]></summary></entry></feed>

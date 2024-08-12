@@ -1,0 +1,15 @@
+- title: Home
+  url: /
+  external: false
+
+- title: Blog
+  url: /blog/
+  external: false
+
+- title: Teaching
+  url: /teaching/
+  external: false
+
+- title: Resume
+  url: /resume/
+  external: false

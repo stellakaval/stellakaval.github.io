@@ -1,0 +1,79 @@
+I"r<h2 id="stella-kaval">Stella Kaval</h2>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:stellakaval@berkeley.edu">stellakaval@berkeley.edu</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/stellakaval">linkedin.com/in/stellakaval</a></li>
+</ul>
+
+<h3 id="education">Education</h3>
+<h4 id="university-of-california-berkeley">University of California, Berkeley</h4>
+<p><strong>B.A. Computer Science</strong><br />
+<em>Berkeley, CA</em>, August 2021 – May 2025</p>
+<ul>
+  <li><strong>Coursework:</strong> Data Structures, Algorithms, Artificial Intelligence, Computer Architecture, Discrete Math, Computer Security, Data Science, Systems and Devices, Functional Programming</li>
+  <li><strong>Awards:</strong> Tapia 2023 Scholarship, Grace Hopper 2022 Scholarship, Oracle Intern Leadership Award</li>
+</ul>
+
+<h3 id="skills">Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> Java, Python, C++, SQL, Go, JavaScript, TypeScript, HTML, CSS, Assembly</li>
+  <li><strong>Technologies:</strong> Git, React, Angular, Node.js, Docker, Kubernetes, Vim, Figma, Jira, Azure, AWS, MongoDB, SSH</li>
+</ul>
+
+<h3 id="experience">Experience</h3>
+<h4 id="uc-berkeley-eecs-department-teaching-assistant">UC Berkeley EECS Department, Teaching Assistant</h4>
+<p><em>Berkeley, CA</em>, January 2023 – Present</p>
+<ul>
+  <li>Instructed 24 students weekly on Data Structures, Sorting Algorithms, and more.</li>
+  <li>Developed course materials and graded assignments for 1500+ students.</li>
+  <li>Earned teaching effectiveness rating of 6.9/7.</li>
+</ul>
+
+<h4 id="microsoft-software-engineer-intern">Microsoft, Software Engineer Intern</h4>
+<p><em>Redmond, WA</em>, May 2024 – August 2024</p>
+<ul>
+  <li>Automated Azure cloud services across 60+ regions and 300+ datacenters.</li>
+  <li>Developed full-stack microservice with TypeScript, React, C#.</li>
+  <li>Enhanced service availability predictions using advanced data solutions.</li>
+</ul>
+
+<h4 id="oracle-software-engineer-intern">Oracle, Software Engineer Intern</h4>
+<p><em>Redwood City, CA</em>, May 2023 – August 2023</p>
+<ul>
+  <li>Built UX feedback tool for Oracle Cloud Infrastructure, used by 43,000+ users.</li>
+  <li>Created feedback system, improving issue resolution speed by 2x.</li>
+  <li>Implemented automated testing with Jest and Enzyme for 100% coverage.</li>
+</ul>
+
+<h4 id="uc-berkeley-data-science-discovery-research-assistant">UC Berkeley Data Science Discovery, Research Assistant</h4>
+<p><em>Berkeley, CA</em>, August 2022 – January 2023</p>
+<ul>
+  <li>Conducted feature engineering analysis of 20+ homeless service provider attributes in California.</li>
+</ul>
+
+<h3 id="leadership">Leadership</h3>
+<h4 id="cs-kickstart-lead-director">CS Kickstart, Lead Director</h4>
+<p><em>Berkeley, CA</em>, January 2022 – Present</p>
+<ul>
+  <li>Expanded 1-week bootcamp for 100 female students by 150% in 2 years.</li>
+  <li>Managed a $100K+ budget and secured partnerships with 8 industry sponsors.</li>
+</ul>
+
+<h3 id="projects">Projects</h3>
+<ul>
+  <li><strong>Attax (Java) 🎮</strong>: Attax is a strategy-based, two-player board game implemented on a 7x7 grid. Players control red and blue pieces, aiming to convert their opponent’s pieces by strategic placement and movement.</li>
+  <li><strong>Deque (Java) 🔄</strong>: Deque is a data structure project where both linked list and array implementations of a Double Ended Queue (Deque) are built, allowing insertion and removal of elements from both ends.</li>
+  <li><strong>Enigma (Java) 🔐</strong>: Enigma simulates the historical Enigma machine used during World War II. The project involves building a Java program that can encode and decode messages based on customizable rotors and plugboard settings.</li>
+  <li><strong>Gitlet (Java) 🌱</strong>: Gitlet is a simplified version of Git, implemented in Java. It supports essential version control features such as committing changes, branching, merging, and restoring previous file versions.</li>
+  <li><strong>2048 (Java) 🎲</strong>: In this project, the core logic for the popular sliding-tile puzzle game 2048 is implemented. The goal is to combine numbered tiles on a grid to create a tile with the number 2048.</li>
+  <li><strong>Wordnet (Java) 📚</strong>: Wordnet explores the relationships between words, particularly focusing on is-a (hypernym-hyponym) relationships. It also involves analyzing the frequency and usage patterns of words in printed English works.</li>
+  <li><strong>Ants vs. Bees (Python) 🐜🐝</strong>: Ants vs. Bees is a strategy-based game similar to Plants vs. Zombies, where players control ants to defend their colony from invading bees. The project focuses on game design, AI for enemies, and player strategies.</li>
+  <li><strong>Cats (Python) 🐱</strong>: Cats is a project that measures typing speed and accuracy. It involves creating a program that tests how quickly and correctly users can type, with additional features for correcting typing errors.</li>
+  <li><strong>Memory Safety (Python) 🛡️</strong>: Memory Safety involves identifying and exploiting vulnerabilities in programs running on a virtual machine. The project emphasizes understanding and mitigating security risks related to memory management.</li>
+  <li><strong>Scheme Interpreter (Python) 🧠</strong>: Scheme Interpreter is a project where a subset of the Scheme programming language is implemented. The project involves parsing, evaluating expressions, and managing memory for the interpreter.</li>
+  <li><strong>Spam vs. Ham (Python) 📧</strong>: Spam vs. Ham is a machine learning project focused on classifying emails as spam or legitimate (ham). The goal is to build a classifier that can accurately distinguish between the two based on text content.</li>
+  <li><strong>CS61kaChow (NumC) (C) 🧮</strong>: CS61kaChow (NumC) is a project where matrix operations, inspired by Python’s numpy library, are implemented in C. The focus is on efficient manipulation and computation of large matrices.</li>
+  <li><strong>Snek (C) 🐍</strong>: Snek is a classic snake game implemented in C. The project involves handling user input, managing the snake’s movement, and implementing game mechanics such as collision detection and scoring.</li>
+  <li><strong>File Sharing (Go) 🔗</strong>: File Sharing is a secure file-sharing program written in Go. The project emphasizes ensuring the confidentiality and integrity of shared data through encryption and secure protocols.</li>
+  <li><strong>CS61CPU (Logisim) 💻</strong>: CS61CPU is a project that simulates a Central Processing Unit (CPU) using Logisim. The project focuses on understanding the fundamental operations of a CPU and building a functional model from scratch.</li>
+</ul>
+:ET

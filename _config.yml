@@ -1,0 +1,88 @@
+# Site settings
+title: Stella Kaval
+description: Hi! I'm Stella, a senior majoring in Computer Science at UC Berkeley. I'm passionate about making coding more accessible and beginner-friendly 🖥️, addressing the environmental impacts of technology 🌱, and spreading positivity 😊. Outside the classroom, you might find me slurping up an iced vanilla latte ☕, capturing sunset pics on the Berkeley fire trails 🌅, binge-watching Survivor 🏝️, or having a Harry Potter movie marathon 🧙‍♀️!
+lang: en-US # default lang
+timezone: Asia/Jakarta # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+mode: light # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Stella Kaval # author name
+  bio: Hi! I'm Stella, a senior majoring in Computer Science at UC Berkeley. I'm passionate about making coding more accessible and beginner-friendly 🖥️, addressing the environmental impacts of technology 🌱, and spreading positivity 😊. Outside the classroom, you might find me slurping up an iced vanilla latte ☕, capturing sunset pics on the Berkeley fire trails 🌅, binge-watching Survivor 🏝️, or having a Harry Potter movie marathon 🧙‍♀️!
+  username: stellakaval # general username
+  github: stellakaval # github username
+  twitter: # twitter username
+  facebook: # facebook username
+  email: stellakaval@berkeley.edu # email adress
+  avatar: /headshot.png # change with your own avatar
+
+# URL settings
+url: "https://stellakaval.github.io" #
+baseurl:
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
