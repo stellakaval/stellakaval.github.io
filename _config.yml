@@ -1,6 +1,6 @@
 # Site settings
 title: Stella Kaval
-description: Hi! I'm Stella, a senior majoring in Computer Science at UC Berkeley. I'm passionate about making coding more accessible and beginner-friendly 🖥️, addressing the environmental impacts of technology 🌱, and spreading positivity 😊. Outside the classroom, you might find me slurping up an iced vanilla latte ☕, capturing sunset pics on the Berkeley fire trails 🌅, binge-watching Survivor 🏝️, or having a Harry Potter movie marathon 🧙‍♀️!
+description: Hello! I’m Stella, a senior studying Computer Science at UC Berkeley. 👋 Over the last two summers, I've interned as a Software Engineer at Oracle and Microsoft. Since the spring of my sophomore year, I've been a computer science teaching assistant. I also served as the Lead Director for UC Berkeley's CS Kickstart program, an introductory computer science bootcamp for 100+ female CS students. 
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Stella Kaval # author name
-  bio: Hi! I'm Stella, a senior majoring in Computer Science at UC Berkeley. I'm passionate about making coding more accessible and beginner-friendly 🖥️, addressing the environmental impacts of technology 🌱, and spreading positivity 😊. Outside the classroom, you might find me slurping up an iced vanilla latte ☕, capturing sunset pics on the Berkeley fire trails 🌅, binge-watching Survivor 🏝️, or having a Harry Potter movie marathon 🧙‍♀️!
+  bio: Hello! I’m Stella, a senior studying Computer Science at UC Berkeley. 👋 Over the last two summers, I've interned as a Software Engineer at Oracle and Microsoft. Since the spring of my sophomore year, I've been a computer science teaching assistant. I also served as the Lead Director for UC Berkeley's CS Kickstart program, an introductory computer science bootcamp for 100+ female CS students. 
   username: stellakaval # general username
   github: stellakaval # github username
   twitter: # twitter username
