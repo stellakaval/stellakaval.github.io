@@ -7,13 +7,11 @@ comments: false
 
 ## CS61B (Data Structures)
 
-Hi! I’m Stella, a senior CS major, and this is my third time on the CS61B staff. My goal this semester is to create a welcoming environment where course concepts are approachable and learning is a fun experience for everyone. Outside of class, you might find me enjoying an iced vanilla latte, capturing sunset pics on the Berkeley fire trails, or binge-watching reality TV!
-
 ### Fall 2024 Discussion Materials
 
 | Topic 📘                    | Slides 📑 | Video 🎥 | More Resources! 🔗 |
 | --------------------------- | --------- | -------- | ------------------ |
-| Introduction to Java        |           |          |                    |
+| Introduction to Java        |    Coming soon!       |          |                    |
 | Scope, Linked Lists, Arrays |           |          |                    |
 | Inheritance                 |           |          |                    |
 | Iterators, Iterables        |           |          |                    |
