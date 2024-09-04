@@ -9,21 +9,23 @@ comments: false
 
 ### Fall 2024 Discussion Materials
 
-| Topic 📘                    | Slides 📑 | Video 🎥 | More Resources! 🔗 |
-| --------------------------- | --------- | -------- | ------------------ |
-| Introduction to Java        |    Coming soon!       |          |                    |
-| Scope, Linked Lists, Arrays |           |          |                    |
-| Inheritance                 |           |          |                    |
-| Iterators, Iterables        |           |          |                    |
-| Asymptotics, Disjoint Sets  |           |          |                    |
-| ADTs, Asymptotics, BSTs     |           |          |                    |
-| B-Trees, LLRBs, Hashing     |           |          |                    |
-| Graphs, Heaps               |           |          |                    |
-| Shortest Paths, MSTs        |           |          |                    |
-| Graphs II, Tries            |           |          |                    |
-| Sorting                     |           |          |                    |
-| More Sorting                |           |          |                    |
-| Final Review                |           |          |                    |
+| Topic 📘                    | Slides 📑         | Video 🎥 | More Resources! 🔗 |
+| --------------------------- | ----------------- | -------- | ------------------ |
+| Introduction to Java        | [Slides][Slides1] |          |                    |
+| Scope, Linked Lists, Arrays |                   |          |                    |
+| Inheritance                 |                   |          |                    |
+| Iterators, Iterables        |                   |          |                    |
+| Asymptotics, Disjoint Sets  |                   |          |                    |
+| ADTs, Asymptotics, BSTs     |                   |          |                    |
+| B-Trees, LLRBs, Hashing     |                   |          |                    |
+| Graphs, Heaps               |                   |          |                    |
+| Shortest Paths, MSTs        |                   |          |                    |
+| Graphs II, Tries            |                   |          |                    |
+| Sorting                     |                   |          |                    |
+| More Sorting                |                   |          |                    |
+| Final Review                |                   |          |                    |
+
+[Slides1] = https://docs.google.com/presentation/d/13ByHdPlVdw-4tDN1ZhBLai-lXPDVk2WdN3pyvC5VgmQ/edit?usp=sharing
 
 ### Fall 2023 Discussion Materials
 
