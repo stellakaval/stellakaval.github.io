@@ -11,7 +11,7 @@ comments: false
 
 | Topic 📘                    | Slides 📑         | Video 🎥 | More Resources! 🔗 |
 | --------------------------- | ----------------- | -------- | ------------------ |
-| Introduction to Java        | [Slides][Slides1] |          |                    |
+| Introduction to Java        | [Slides][X1] |          |                    |
 | Scope, Linked Lists, Arrays |                   |          |                    |
 | Inheritance                 |                   |          |                    |
 | Iterators, Iterables        |                   |          |                    |
@@ -24,8 +24,6 @@ comments: false
 | Sorting                     |                   |          |                    |
 | More Sorting                |                   |          |                    |
 | Final Review                |                   |          |                    |
-
-[Slides1] = https://docs.google.com/presentation/d/13ByHdPlVdw-4tDN1ZhBLai-lXPDVk2WdN3pyvC5VgmQ/edit?usp=sharing
 
 ### Fall 2023 Discussion Materials
 
@@ -45,6 +43,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X1]: https://docs.google.com/presentation/d/13ByHdPlVdw-4tDN1ZhBLai-lXPDVk2WdN3pyvC5VgmQ/edit?usp=sharing
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
 [W4]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular04.pdf
