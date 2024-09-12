@@ -12,7 +12,7 @@ comments: false
 | Topic 📘                    | Slides 📑    | Video 🎥    | More Resources! 🔗         |
 | --------------------------- | ------------ | ----------- | -------------------------- |
 | Introduction to Java        | [Slides][X1] | [Video][X2] |                            |
-| Scope, Linked Lists, Arrays | [Slides][X4] |             | [Proj1A Intro Section][X3] |
+| Scope, Linked Lists, Arrays | [Slides][X4] | [Video][X5] | [Proj1A Intro Section][X3] |
 | Inheritance                 |              |             |                            |
 | Iterators, Iterables        |              |             |                            |
 | Asymptotics, Disjoint Sets  |              |             |                            |
@@ -47,6 +47,7 @@ comments: false
 [X2]: https://youtu.be/dXQmid0Zk0U
 [X3]: https://youtu.be/f5smA9rt7bg?si=WUO0DhwwmWXJgQnW
 [X4]: https://docs.google.com/presentation/d/154WO3njMhwF7_TtMcXDDkrlgsJkGhLa-zaTJJ02OBzE/edit?usp=sharing
+[X5]: https://youtu.be/1ZykWDdUtgk
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
 [W4]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular04.pdf
