@@ -14,7 +14,7 @@ comments: false
 | Introduction to Java        | [Slides][X1] | [Video][X2] |                            |
 | Scope, Linked Lists, Arrays | [Slides][X4] | [Video][X5] | [Proj1A Intro Section][X3] |
 | Inheritance                 | [Slides][X6] |             |                            |
-| Iterators, Iterables        |              |             |                            |
+| Iterators, Iterables        |  [Slides][X7]     |           |                            |
 | Asymptotics, Disjoint Sets  |              |             |                            |
 | ADTs, Asymptotics, BSTs     |              |             |                            |
 | B-Trees, LLRBs, Hashing     |              |             |                            |
@@ -49,6 +49,7 @@ comments: false
 [X4]: https://docs.google.com/presentation/d/154WO3njMhwF7_TtMcXDDkrlgsJkGhLa-zaTJJ02OBzE/edit?usp=sharing
 [X5]: https://youtu.be/1ZykWDdUtgk
 [X6]: https://docs.google.com/presentation/d/1h69B-DEqtyNW2oAVMwPmiL--WQY13-4BEIMjIUISNTg/edit?usp=sharing
+[X7]: https://docs.google.com/presentation/d/1aLXJ_2eMDb_8j44zYjGoqKS41btiZeENhv_nWhnXnrs/edit?usp=sharing
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
 [W4]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular04.pdf
