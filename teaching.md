@@ -17,7 +17,7 @@ comments: false
 | Iterators, Iterables        | [Slides][X7]  |                                             |
 | Asymptotics, Disjoint Sets  | [Slides][X8]  | [Homework 2 Intro Party][HW2]               |
 | ADTs, Asymptotics, BSTs     | [Slides][X10] |                                             |
-| B-Trees, LLRBs, Hashing     |               |                                             |
+| B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]              |
 | Graphs, Heaps               |               |                                             |
 | Shortest Paths, MSTs        |               |                                             |
 | Graphs II, Tries            |               |                                             |
@@ -52,6 +52,8 @@ comments: false
 [X7]: https://docs.google.com/presentation/d/1aLXJ_2eMDb_8j44zYjGoqKS41btiZeENhv_nWhnXnrs/edit?usp=sharing
 [X8]: https://docs.google.com/presentation/d/1pCar-J2EKh6faC-GIs3-0f5i6ymx_UHKhMKD2AkfCE8/edit?usp=sharing
 [X10]: https://docs.google.com/presentation/d/1lbixk5hy6gofM6yw2nKPkEwuu8R_l5PUVEqpvv47tJk/edit?usp=sharing
+[X11]: https://docs.google.com/presentation/d/1Y81dvWVrWjlRt5vveqb9JwMhRenKl-b3xWtJ7ey6xU4/edit?usp=sharing
+[X12]: https://docs.google.com/presentation/d/1Shaj5Vxw9GoPXUIU4yRgmFWAXY96dh8cyxZ7qYZfUVw/edit?usp=sharing
 [HW2]: https://edstem.org/us/courses/61406/discussion/5385228
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
