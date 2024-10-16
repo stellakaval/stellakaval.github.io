@@ -16,7 +16,7 @@ comments: false
 | Inheritance                 | [Slides][X6]  |                                             |
 | Iterators, Iterables        | [Slides][X7]  |                                             |
 | Asymptotics, Disjoint Sets  | [Slides][X8]  | [Homework 2 Intro Party][HW2]               |
-| ADTs, Asymptotics, BSTs     | [Slides][X10] |                                             |
+| ADTs, Asymptotics, BSTs     | [Slides][X10] | [Asymptotics Cheat Sheet PDF!][X13]         |
 | B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]              |
 | Graphs, Heaps               |               |                                             |
 | Shortest Paths, MSTs        |               |                                             |
@@ -43,6 +43,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X13]: https://drive.google.com/file/d/1ed57CRb_QYBtTKkY4r_Zf098myVyGGuk/view?usp=sharing
 [X1]: https://docs.google.com/presentation/d/13ByHdPlVdw-4tDN1ZhBLai-lXPDVk2WdN3pyvC5VgmQ/edit?usp=sharing
 [X2]: https://youtu.be/dXQmid0Zk0U
 [X3]: https://youtu.be/f5smA9rt7bg?si=WUO0DhwwmWXJgQnW
