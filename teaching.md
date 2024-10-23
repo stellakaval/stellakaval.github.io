@@ -9,21 +9,21 @@ comments: false
 
 ### Fall 2024 Discussion Materials
 
-| Topic 📘                    | Slides 📑     | More Resources! 🔗                          |
-| --------------------------- | ------------- | ------------------------------------------- |
-| Introduction to Java        | [Slides][X1]  | [Recording][X2]                             |
-| Scope, Linked Lists, Arrays | [Slides][X4]  | [Recording][X5], [Proj1A Intro Section][X3] |
-| Inheritance                 | [Slides][X6]  |                                             |
-| Iterators, Iterables        | [Slides][X7]  |                                             |
-| Asymptotics, Disjoint Sets  | [Slides][X8]  | [Homework 2 Intro Party][HW2]               |
-| ADTs, Asymptotics, BSTs     | [Slides][X10] | [Asymptotics Cheat Sheet PDF!][X13]         |
-| B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]              |
-| Graphs, Heaps               | [Slides][X20] |                                             |
-| Shortest Paths, MSTs        |               |                                             |
-| Graphs II, Tries            |               |                                             |
-| Sorting                     |               |                                             |
-| More Sorting                |               |                                             |
-| Final Review                |               |                                             |
+| Topic 📘                    | Slides 📑     | More Resources! 🔗                                              |
+| --------------------------- | ------------- | --------------------------------------------------------------- |
+| Introduction to Java        | [Slides][X1]  | [Recording][X2]                                                 |
+| Scope, Linked Lists, Arrays | [Slides][X4]  | [Recording][X5], [Proj1A Intro Section][X3]                     |
+| Inheritance                 | [Slides][X6]  |                                                                 |
+| Iterators, Iterables        | [Slides][X7]  |                                                                 |
+| Asymptotics, Disjoint Sets  | [Slides][X8]  | [Homework 2 Intro Party][HW2]                                   |
+| ADTs, Asymptotics, BSTs     | [Slides][X10] | [Asymptotics Cheat Sheet PDF!][X13]                             |
+| B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]                                  |
+| Graphs, Heaps               | [Slides][X20] | [Graph DFS/BFS Walkthrough 1c][X33], [SP24 Q4 Walkthrough][X34] |
+| Shortest Paths, MSTs        |               |                                                                 |
+| Graphs II, Tries            |               |                                                                 |
+| Sorting                     |               |                                                                 |
+| More Sorting                |               |                                                                 |
+| Final Review                |               |                                                                 |
 
 ### Fall 2023 Discussion Materials
 
@@ -43,6 +43,8 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X34]: https://drive.google.com/file/d/12zSYqDQlGfq9gxyX6O1-Bn_-Ymq5yAue/view?usp=sharing
+[X33]: https://youtu.be/q9Z0uuaGmXI?si=gXJetwqeI4bcWbS1
 [X13]: https://drive.google.com/file/d/1ed57CRb_QYBtTKkY4r_Zf098myVyGGuk/view?usp=sharing
 [X20]: https://docs.google.com/presentation/d/1Zv79nb87B6bG7h50Brh-Vk7y94HS5avEnRTJZEooabE/edit?usp=sharing
 [X1]: https://docs.google.com/presentation/d/13ByHdPlVdw-4tDN1ZhBLai-lXPDVk2WdN3pyvC5VgmQ/edit?usp=sharing
