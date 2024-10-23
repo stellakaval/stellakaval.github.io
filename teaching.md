@@ -43,7 +43,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
-[X34]: https://drive.google.com/file/d/12zSYqDQlGfq9gxyX6O1-Bn_-Ymq5yAue/view?usp=sharing
+[X34]: https://www.youtube.com/watch?v=LIj9gR6XszU
 [X33]: https://youtu.be/q9Z0uuaGmXI?si=gXJetwqeI4bcWbS1
 [X13]: https://drive.google.com/file/d/1ed57CRb_QYBtTKkY4r_Zf098myVyGGuk/view?usp=sharing
 [X20]: https://docs.google.com/presentation/d/1Zv79nb87B6bG7h50Brh-Vk7y94HS5avEnRTJZEooabE/edit?usp=sharing
