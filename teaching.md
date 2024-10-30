@@ -19,7 +19,7 @@ comments: false
 | ADTs, Asymptotics, BSTs     | [Slides][X10] | [Asymptotics Cheat Sheet PDF!][X13]                             |
 | B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]                                  |
 | Graphs, Heaps               | [Slides][X20] | [Graph DFS/BFS Walkthrough 1c][X33], [SP24 Q4 Walkthrough][X34] |
-| Shortest Paths, MSTs        |               |                                                                 |
+| Shortest Paths, MSTs        | [Slides][X35] |                                                                 |
 | Graphs II, Tries            |               |                                                                 |
 | Sorting                     |               |                                                                 |
 | More Sorting                |               |                                                                 |
@@ -43,6 +43,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X35]: https://docs.google.com/presentation/d/1KbWtVDRzC5OBiz7PDfDM1EQQkX1FK29XnD_o0iS3Ax8/edit?usp=sharing
 [X34]: https://www.youtube.com/watch?v=LIj9gR6XszU
 [X33]: https://youtu.be/q9Z0uuaGmXI?si=gXJetwqeI4bcWbS1
 [X13]: https://drive.google.com/file/d/1ed57CRb_QYBtTKkY4r_Zf098myVyGGuk/view?usp=sharing
