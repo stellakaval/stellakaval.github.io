@@ -20,7 +20,7 @@ comments: false
 | B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]                                  |
 | Graphs, Heaps               | [Slides][X20] | [Graph DFS/BFS Walkthrough 1c][X33], [SP24 Q4 Walkthrough][X34] |
 | Shortest Paths, MSTs        | [Slides][X35] |                                                                 |
-| Graphs II, Tries            |               |                                                                 |
+| Graphs II, Tries            | [Slides][X44] |                                                                 |
 | Sorting                     |               |                                                                 |
 | More Sorting                |               |                                                                 |
 | Final Review                |               |                                                                 |
@@ -43,6 +43,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X44]: https://docs.google.com/presentation/d/1AhlFvoV_YPzgMrV7nJLzrJy9seT7PYHK6L-XrR2wQe8/edit?usp=sharing
 [X35]: https://docs.google.com/presentation/d/1KbWtVDRzC5OBiz7PDfDM1EQQkX1FK29XnD_o0iS3Ax8/edit?usp=sharing
 [X34]: https://www.youtube.com/watch?v=LIj9gR6XszU
 [X33]: https://youtu.be/q9Z0uuaGmXI?si=gXJetwqeI4bcWbS1
