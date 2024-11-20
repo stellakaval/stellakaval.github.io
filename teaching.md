@@ -22,7 +22,7 @@ comments: false
 | Shortest Paths, MSTs        | [Slides][X35] |                                                                 |
 | Graphs II, Tries            | [Slides][X44] |                                                                 |
 | Sorting                     | [Slides][X45] |                                                                 |
-| More Sorting                |               |                                                                 |
+| More Sorting                | [Slides][X46] | [Proj3B Intro Section][X47]                                     |
 | Final Review                |               |                                                                 |
 
 ### Fall 2023 Discussion Materials
@@ -43,6 +43,8 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X47]: https://edstem.org/us/courses/61406/discussion/5740973
+[X46]: https://docs.google.com/presentation/d/1EeVu9XHgu6DjTR-1p37530cGnPqAa0SIHx5xHat2LGc/edit?usp=sharing
 [X45]: https://docs.google.com/presentation/d/1LB_lClUY5323Jw8CNc5V8L0j74_-x6YLFUYsJKcrgPI/edit?usp=sharing
 [X44]: https://docs.google.com/presentation/d/1AhlFvoV_YPzgMrV7nJLzrJy9seT7PYHK6L-XrR2wQe8/edit?usp=sharing
 [X35]: https://docs.google.com/presentation/d/1KbWtVDRzC5OBiz7PDfDM1EQQkX1FK29XnD_o0iS3Ax8/edit?usp=sharing
