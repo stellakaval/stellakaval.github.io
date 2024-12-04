@@ -23,7 +23,7 @@ comments: false
 | Graphs II, Tries            | [Slides][X44] |                                                                 |
 | Sorting                     | [Slides][X45] |                                                                 |
 | More Sorting                | [Slides][X46] | [Proj3B Intro Section][X47]                                     |
-| Final Review                |               |                                                                 |
+| Final Review                | [Slides][X48] | [Staff Created Final Cheatsheet][X49]                           |
 
 ### Fall 2023 Discussion Materials
 
@@ -43,6 +43,8 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
 | Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[X49]: https://docs.google.com/document/d/1XL91feqiGoPLAQ5VsEArzHEUIAjJ6ElvUi7Lr3wG3bE/edit?tab=t.0#heading=h.evv6nho5j58g
+[X48]: https://docs.google.com/presentation/d/1Ixmemtb0WCJfyklzVCIBFhMXgMIXMpSHO-vq-7cSKK0/edit?usp=sharing
 [X47]: https://edstem.org/us/courses/61406/discussion/5740973
 [X46]: https://docs.google.com/presentation/d/1EeVu9XHgu6DjTR-1p37530cGnPqAa0SIHx5xHat2LGc/edit?usp=sharing
 [X45]: https://docs.google.com/presentation/d/1LB_lClUY5323Jw8CNc5V8L0j74_-x6YLFUYsJKcrgPI/edit?usp=sharing
