@@ -167,9 +167,7 @@ comments: false
 
 TAs Stella and Kanav Guest Lecture about Software Engineering III: Collaboration.
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/vhEO0LWFbpo?si=8Xhqss5kqVs-KACa" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxT6yl55P3U?si=0GwRCodi2at0DOIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### [61B FA23] Lecture 31 - Software Engineering II
 
