@@ -7,42 +7,71 @@ comments: false
 
 ## CS61B (Data Structures)
 
+### Spring 2025 Discussion Materials
+
+| Topic 📘                    | Slides 📑 | Resources 🔗 |
+| --------------------------- | --------- | ------------ |
+| Introduction to Java        |           |              |
+| Scope, Linked Lists, Arrays |           |              |
+| Inheritance                 |           |              |
+| Iterators, Iterables        |           |              |
+| Asymptotics, Disjoint Sets  |           |              |
+| ADTs, Asymptotics, BSTs     |           |              |
+| B-Trees, LLRBs, Hashing     |           |              |
+| Graphs, Heaps               |           |              |
+| Shortest Paths, MSTs        |           |              |
+| Graphs II, Tries            |           |              |
+| Sorting                     |           |              |
+| More Sorting                |           |              |
+| Final Review                |           |              |
+
 ### Fall 2024 Discussion Materials
 
-| Topic 📘                    | Slides 📑     | More Resources! 🔗                                              |
-| --------------------------- | ------------- | --------------------------------------------------------------- |
-| Introduction to Java        | [Slides][X1]  | [Recording][X2]                                                 |
-| Scope, Linked Lists, Arrays | [Slides][X4]  | [Recording][X5], [Proj1A Intro Section][X3]                     |
-| Inheritance                 | [Slides][X6]  |                                                                 |
-| Iterators, Iterables        | [Slides][X7]  |                                                                 |
-| Asymptotics, Disjoint Sets  | [Slides][X8]  | [Homework 2 Intro Party][HW2]                                   |
-| ADTs, Asymptotics, BSTs     | [Slides][X10] | [Asymptotics Cheat Sheet PDF!][X13]                             |
-| B-Trees, LLRBs, Hashing     | [Slides][X12] | [Project 2A Intro Slides][X11]                                  |
-| Graphs, Heaps               | [Slides][X20] | [Graph DFS/BFS Walkthrough 1c][X33], [SP24 Q4 Walkthrough][X34] |
-| Shortest Paths, MSTs        | [Slides][X35] |                                                                 |
-| Graphs II, Tries            | [Slides][X44] |                                                                 |
-| Sorting                     | [Slides][X45] |                                                                 |
-| More Sorting                | [Slides][X46] | [Proj3B Intro Section][X47]                                     |
-| Final Review                | [Slides][X48] | [Staff Created Final Cheatsheet][X49]                           |
+| Topic 📘                    | Slides 📑                         | Assignment Resources 🔗                         |
+| --------------------------- | --------------------------------- | ----------------------------------------------- |
+| Introduction to Java        | [Slides][X1] / [Video][X2]        |                                                 |
+| Scope, Linked Lists, Arrays | [Slides][X4] / [Video][X5]        | [Proj1A Intro Video][X3] / [Intro Slides][P1]   |
+| Inheritance                 | [Slides][X6]                      | [Proj1B Intro Video][P2] / [Intro Slides][P3]   |
+| Iterators, Iterables        | [Slides][X7]                      |                                                 |
+| Asymptotics, Disjoint Sets  | [Slides][X8]                      | [HW2 Intro Video][P4] / [Intro Slides][P5]      |
+| ADTs, Asymptotics, BSTs     | [Slides][X10] / [Notes][X13]      |                                                 |
+| B-Trees, LLRBs, Hashing     | [Slides][X12]                     | [Proj2A Intro Video][P6] / [Intro Slides][P7]   |
+| Graphs, Heaps               | [Slides][X20] / [1c Video][X33]   | [Proj2B Intro Video][P8] / [Intro Slides][P9]   |
+| Shortest Paths, MSTs        | [Slides][X35]                     |                                                 |
+| Graphs II, Tries            | [Slides][X44]                     |                                                 |
+| Sorting                     | [Slides][X45]                     |                                                 |
+| More Sorting                | [Slides][X46]                     | [Proj3B Intro Video][P10] / [Intro Slides][P11] |
+| Final Review                | [Slides][X48] / [Cheatsheet][X49] |                                                 |
 
 ### Fall 2023 Discussion Materials
 
-| Topic 📘                    | Slides 📑                        | Video 🎥     | More Resources! 🔗                                     |
-| --------------------------- | -------------------------------- | ------------ | ------------------------------------------------------ |
-| Introduction to Java        | [Slides][S2] / [Annotated][A2]   | [Video][V2]  | [Java Reference][R2] / [Java Practice][R16]            |
-| Scope, Linked Lists, Arrays | [Slides][S3] / [Annotated][A3]   | [Video][V3]  | [Linked List Reference][R3]                            |
-| Inheritance                 | [Slides][S4] / [Annotated][A4]   | [Video][V4]  | [DMS Reference][R4]                                    |
-| Iterators, Iterables        | [Slides][S5] / [Annotated][A5]   | [Video][V5]  | [Iterator/able Reference][R5]                          |
-| Asymptotics, Disjoint Sets  | [Slides][S6] / [Annotated][A6]   | [Video][V6]  | [Asymptotics Guide][R6]                                |
-| ADTs, Asymptotics, BSTs     | [Slides][S7] / [Annotated][A7]   | [Video][V7]  | [Asymptotics Video][R7]                                |
-| B-Trees, LLRBs, Hashing     | [Slides][S8] / [Annotated][A8]   | [Video][V8]  | [Tree Practice Problems][R8]                           |
-| Graphs, Heaps               | [Slides][S9] / [Annotated][A9]   | [Video][V9]  | [My MT2 Cheatsheet][R9] / [Linked List MT2][R18]       |
-| Shortest Paths, MSTs        | [Slides][S10] / [Annotated][A10] | [Video][V10] | [Proj2B Intro Slides][R10]                             |
-| Graphs II, Tries            | [Slides][S11] / [Annotated][A11] | [Video][V11] | [SWE Guest Lecture][R11]                               |
-| Sorting                     | [Slides][S12] / [Annotated][A12] | [Video][V12] | [Sorting Youtube][R12]                                 |
-| More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                  |
-| Final Review                | [Slides][S14]                    |              | [Final Cheat Sheet!][R15] / [Vidya's iPad Notes!][R17] |
+| Topic 📘                    | Slides 📑                        | Video 🎥     | More Resources! 🔗                                    |
+| --------------------------- | -------------------------------- | ------------ | ----------------------------------------------------- |
+| Introduction to Java        | [Slides][S2] / [Annotated][A2]   | [Video][V2]  | [Java Reference][R2] / [Java Practice][R16]           |
+| Scope, Linked Lists, Arrays | [Slides][S3] / [Annotated][A3]   | [Video][V3]  | [Linked List Reference][R3]                           |
+| Inheritance                 | [Slides][S4] / [Annotated][A4]   | [Video][V4]  | [DMS Reference][R4]                                   |
+| Iterators, Iterables        | [Slides][S5] / [Annotated][A5]   | [Video][V5]  | [Iterator/able Reference][R5]                         |
+| Asymptotics, Disjoint Sets  | [Slides][S6] / [Annotated][A6]   | [Video][V6]  | [Asymptotics Guide][R6]                               |
+| ADTs, Asymptotics, BSTs     | [Slides][S7] / [Annotated][A7]   | [Video][V7]  | [Asymptotics Video][R7]                               |
+| B-Trees, LLRBs, Hashing     | [Slides][S8] / [Annotated][A8]   | [Video][V8]  | [Tree Practice Problems][R8]                          |
+| Graphs, Heaps               | [Slides][S9] / [Annotated][A9]   | [Video][V9]  | [My MT2 Cheatsheet][R9] / [Linked List MT2][R18]      |
+| Shortest Paths, MSTs        | [Slides][S10] / [Annotated][A10] | [Video][V10] | [Proj2B Intro Slides][R10]                            |
+| Graphs II, Tries            | [Slides][S11] / [Annotated][A11] | [Video][V11] | [SWE Guest Lecture][R11]                              |
+| Sorting                     | [Slides][S12] / [Annotated][A12] | [Video][V12] | [Sorting Youtube][R12]                                |
+| More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
+| Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[P1]: https://docs.google.com/presentation/d/15z2SZ0mIsaZZTCZF5I8EA8Q3QL49R8rpV5PlJyOubqs/edit?usp=sharing
+[P2]: https://www.youtube.com/watch?v=m1zy1tuA6o8
+[P3]: https://docs.google.com/presentation/d/1ub5lH-x_pJ--oH5FJSxJKkMBxyMDRfoPKD8TbkGNPtM/edit#slide=id.p
+[P4]: https://www.youtube.com/watch?v=v1soQ8oOfSo
+[P5]: https://docs.google.com/presentation/d/1KNuaQMTBlo_o3fT14dJk56SZxpDgl7bBArTIPIbDhrg/edit#slide=id.g286fea5d52b_0_0
+[P6]: https://www.youtube.com/watch?v=f_XZsWK9KWQ
+[P7]: https://docs.google.com/presentation/d/1Y81dvWVrWjlRt5vveqb9JwMhRenKl-b3xWtJ7ey6xU4/edit#slide=id.g24db28cdf3a_0_0
+[P8]: https://www.youtube.com/watch?v=zIPunMGKRuM
+[P9]: https://docs.google.com/presentation/d/1rv5gczdTIq9t7vhWqPkGm2AZopKC-BdxSoB4eGJyQ_I/edit#slide=id.g30d2ad160bd_0_647
+[P10]: https://www.youtube.com/watch?v=3kwMTDP7Y3I
+[P11]: https://docs.google.com/presentation/d/1orltD3Ds2l6fBXm21YMYSsJ-oD9F2A9yk6Mea_uRBxU/edit#slide=id.g24c771968df_1_0
 [X49]: https://docs.google.com/document/d/1XL91feqiGoPLAQ5VsEArzHEUIAjJ6ElvUi7Lr3wG3bE/edit?tab=t.0#heading=h.evv6nho5j58g
 [X48]: https://docs.google.com/presentation/d/1Ixmemtb0WCJfyklzVCIBFhMXgMIXMpSHO-vq-7cSKK0/edit?usp=sharing
 [X47]: https://edstem.org/us/courses/61406/discussion/5740973
@@ -65,7 +94,6 @@ comments: false
 [X10]: https://docs.google.com/presentation/d/1lbixk5hy6gofM6yw2nKPkEwuu8R_l5PUVEqpvv47tJk/edit?usp=sharing
 [X11]: https://docs.google.com/presentation/d/1Y81dvWVrWjlRt5vveqb9JwMhRenKl-b3xWtJ7ey6xU4/edit?usp=sharing
 [X12]: https://docs.google.com/presentation/d/1Shaj5Vxw9GoPXUIU4yRgmFWAXY96dh8cyxZ7qYZfUVw/edit?usp=sharing
-[HW2]: https://edstem.org/us/courses/61406/discussion/5385228
 [W2]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular02.pdf
 [W3]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular03.pdf
 [W4]: https://github.com/Berkeley-CS61B/discussions-fa23/blob/main/week02/regular/regular04.pdf
@@ -135,9 +163,17 @@ comments: false
 [R18]: https://www.notion.so/61B-Midterm-2-Review-60e3bc444b7148689283d2d7ae087df2
 [R19]: https://docs.google.com/document/d/1PMoL1xJ9xa6ywQQ8HCc1oxLf2TUCiCaKaatlKYv6RZw/edit
 
+### [61B FA24] Lecture 31 - Software Engineering III
+
+TAs Stella and Kanav Guest Lecture about Software Engineering III: Collaboration.
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/watch?v=XxT6yl55P3U" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### [61B FA23] Lecture 31 - Software Engineering II
 
-TAs Stella/Noah Guest Lecture about Software Engineering
+TAs Stella and Noah Guest Lecture about Software Engineering II: Clean Coding Practices + Documentation.
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
   <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/LCibXajLbns" frameborder="0" allowfullscreen></iframe>
