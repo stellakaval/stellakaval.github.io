@@ -4,16 +4,6 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1
-    after: 3
 ---
 
 <div class="post">
@@ -48,7 +38,7 @@ pagination:
       {% endif %}
       {% for category in site.display_categories %}
         <li>
-          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
+          <i class="fa-solid fa-tag fa-sm"></i> <a href="#" onclick="filterPosts('{{ category }}'); return false;">{{ category }}</a>
         </li>
         {% unless forloop.last %}
           <p>&bull;</p>
@@ -114,11 +104,7 @@ pagination:
 </div>
 
 <ul id="post-list" class="post-list">
-  {% if page.pagination.enabled %}
-    {% assign postlist = paginator.posts %}
-  {% else %}
-    {% assign postlist = site.posts %}
-  {% endif %}
+  {% assign postlist = site.posts %}
 
   {% for post in postlist %}
   {% if post.external_source == blank %}
@@ -173,7 +159,7 @@ pagination:
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
+            <a href="#" onclick="filterPosts('{{ category }}'); return false;">
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -192,10 +178,6 @@ pagination:
   </li>
   {% endfor %}
 </ul>
-
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
 
 </div>
 
