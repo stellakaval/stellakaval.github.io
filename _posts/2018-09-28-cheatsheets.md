@@ -8,8 +8,6 @@ description:
 
 CS courses at Berkeley have been known to provide students with cheatsheets (aka reference sheets) during midterm and final exams. Here, I've complied my cheatsheets over the years to help others with their studying!
 
-Here's the corrected markdown table with working links:
-
 | Course | Cheatsheet |
 |--------|------------|
 | CS61A  | [Final](https://drive.google.com/file/d/1FSmnyJ_BEqcA_GrPLPhhqoeyXQ7MA2vB/view?usp=sharing) |
