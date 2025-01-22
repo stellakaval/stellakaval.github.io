@@ -9,12 +9,12 @@ comments: false
 
 ### Spring 2025 Discussion Materials
 
-| Topic 📘                    | Slides 📑 | Resources 🔗                                                                          |
-| --------------------------- | --------- | ------------------------------------------------------------------------------------ |
-| Introduction to Java        |           | [Git Cheatsheet][O1] / [Java Basics Cheatsheet][O2] / [Pro Tips for Success!][O3]   |
-| Scope, Linked Lists, Arrays |           |              |
-| Inheritance                 |           |              |
-| Iterators, Iterables        |           |              |
+| Topic 📘                    | Slides 📑          | Resources 🔗                                                                      |
+| --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| Introduction to Java        |                   | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
+| Scope, Linked Lists, Arrays |                   |              |
+| Inheritance                 |                   |              |
+| Iterators, Iterables        |                   |              |
 | Asymptotics, Disjoint Sets  |           |              |
 | ADTs, Asymptotics, BSTs     |           |              |
 | B-Trees, LLRBs, Hashing     |           |              |
