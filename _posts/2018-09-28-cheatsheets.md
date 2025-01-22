@@ -7,16 +7,17 @@ description:
 ---
 
 CS courses at Berkeley have been known to provide students with cheatsheets (aka reference sheets) during midterm and final exams. Here, I've complied my cheatsheets over the years to help others with their studying!
+
 | Course | Cheatsheet |
-| ----- | -----------------|
-| CS61A | [Final][Q1] |
-| CS61B | [Final][Q2] |
-| CS70 | [Final][Q3] |
-| CS61C | [Midterm][Q4] / [Final][Q5] |
-| CS170 | [MT1][Q6] / [MT2][Q7] / [Final][Q8] |
-| CS161 | [Final][Q9] |
-| CS168 | [Final][Q10] |
-| CS188 | [Midterm][Q11] / [Final][Q12] |
+|--------|------------|
+| CS61A  | [Final][Q1] |
+| CS61B  | [Final][Q2] |
+| CS70   | [Final][Q3] |
+| CS61C  | [Midterm][Q4] / [Final][Q5] |
+| CS170  | [MT1][Q6] / [MT2][Q7] / [Final][Q8] |
+| CS161  | [Final][Q9] |
+| CS168  | [Final][Q10] |
+| CS188  | [Midterm][Q11] / [Final][Q12] |
 
 Q1: https://drive.google.com/file/d/1FSmnyJ_BEqcA_GrPLPhhqoeyXQ7MA2vB/view?usp=sharing
 Q2: https://docs.google.com/document/d/1PMoL1xJ9xa6ywQQ8HCc1oxLf2TUCiCaKaatlKYv6RZw/edit
