@@ -11,7 +11,10 @@ description:
 
 With my Swedish roots, the excitement of learning more about my heritage drew me to the program. After researching Lund's renowned engineering program and legendary student scene, I knew it was the place to spend my semester abroad! Fast forward to today, and I'm thrilled to share some of the Swedish university traditions I've discovered along the way.
 
-<img src="../UniversityBuilding.JPG" alt="University Building" width=200 style="float: right; margin-left: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../UniversityBuilding.JPG" alt="University Building" width="200">
+</div>
+
 
 ### Student Nations
 
@@ -23,7 +26,9 @@ One of my most memorable experiences was volunteering at Västgöta nation's kit
 
 While students can only choose to be a member of one nation, all events are open to everyone, creating an inclusive environment that was ideal for an exchange student like me.
 
-<img src="../VGKitchenVolunteering.JPG" alt="Sittning" width=200 style="float: left; margin-right: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../VGKitchenVolunteering.JPG" alt="Sittning" width=200>
+</div>
 
 
 ### Sittnings
@@ -38,7 +43,9 @@ The sittning atmosphere is snug and cozy, reminiscent of the Oscars. A three-cou
 
 I've had the opportunity to attend several sittnings during my time here, each offering its own distinct charm. Whether it was Göteborgs nation's new student finsittning, Västgöta's tacksittning for volunteers, or Östgöta's engineering student sittning, each occasion left a lasting memory, deepening my appreciation for Swedish customs and community spirit.
 
-<img src="../Sittning.JPG" alt="Sittning" width=200 style="float: right; margin-left: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../Sittning.JPG" alt="Sittning" width=200>
+</div>
 
 ### Valborg 
 
@@ -50,7 +57,9 @@ Valborg itself happens on the last day of April and is the most important day of
 
 As for May 1st, it's all about the aftermath and celebration of Valborg. We headed to the botanical gardens and enjoyed a relaxed day of recovery and sunshine.
 
-<img src="../Valborg.JPG" alt="Valborg" width=200 style="float: left; margin-right: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../Valborg.JPG" alt="Valborg" width=200>
+</div>
 
 ### Tandem
 
@@ -62,16 +71,22 @@ Our journey kicked off at 11 am on a Friday. We were playing games, cracking jok
 
 When we finally rolled back into Lund the next day, we were belting out our newfound favorite Swedish tune, "Tigerjakt." To top it all off, our team received the prize for being the closest to the target finish time! 
 
-<img src="../TandemRace.JPG" alt="Tandem" width=200 style="float: right; margin-left: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../TandemRace.JPG" alt="Tandem" width=200>
+</div>
 
 ### Fika
 
 Last but not least: fika. It's like the Swedish version of a coffee break, but way cooler. Imagine cozy cafes, delicious pastries, and good company. It's more than just a break—it's a chance to unwind, connect with friends, and eat some seriously good kanelbullar (cinnamon buns). And one time they asked me to put away my laptop because of their cafe policy so everyone could really savor the fika moment!
 
-<img src="../Fika.JPG" alt="Fika" width=200 style="float: left; margin-right: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../Fika.JPG" alt="Fika" width=200>
+</div>
 
 ### Takeaways
 
 Lund has been a student experience like no other. It's taught me to embrace new cultures, step out of my comfort zone, and make memories that will last a lifetime. So, if you ever find yourself in Scandinavia, don't sleep on Lund. It's worth the visit! Until next time, tack för allt, Lund! (Thanks for everything, Lund!)
 
-<img src="../BotanicalGarden.JPG" alt="Garden" width=200 style="float: right; margin-left: 15px;">
+<div style="float: right; margin-left: 15px;">
+  <img src="../BotanicalGarden.JPG" alt="Garden" width=200 >
+</div>
