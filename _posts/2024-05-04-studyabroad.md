@@ -25,7 +25,7 @@ One of my most memorable experiences was volunteering at Västgöta nation's kit
 
 While students can only choose to be a member of one nation, all events are open to everyone, creating an inclusive environment that was ideal for an exchange student like me.
 
-<div style="text-align: center;">
+<div style="float: right; margin-left: 20px;">
     <img src="../VGKitchenVolunteering.JPG" alt="Sittning" width=500>
 </div>
 
@@ -41,7 +41,7 @@ The sittning atmosphere is snug and cozy, reminiscent of the Oscars. A three-cou
 
 I've had the opportunity to attend several sittnings during my time here, each offering its own distinct charm. Whether it was Göteborgs nation's new student finsittning, Västgöta's tacksittning for volunteers, or Östgöta's engineering student sittning, each occasion left a lasting memory, deepening my appreciation for Swedish customs and community spirit.
 
-<div style="text-align: center;">
+<div style="float: right; margin-left: 20px;">
     <img src="../Sittning.JPG" alt="Sittning" width=500>
 </div>
 
@@ -55,7 +55,7 @@ Valborg itself happens on the last day of April and is the most important day of
 
 As for May 1st, it's all about the aftermath and celebration of Valborg. We headed to the botanical gardens and enjoyed a relaxed day of recovery and sunshine.
 
-<div style="text-align: center;">
+<div style="float: right; margin-left: 20px;">
     <img src="../Valborg.JPG" alt="Valborg" width=500>
 </div>
 
@@ -70,7 +70,7 @@ Our journey kicked off at 11 am on a Friday. We were playing games, cracking jok
 When we finally rolled back into Lund the next day, we were belting out our newfound favorite Swedish tune, "Tigerjakt." To top it all off, our team received the prize for being the closest to the target finish time! 
 
 
-<div style="text-align: center;">
+<div style="float: right; margin-left: 20px;">
     <img src="../TandemRace.JPG" alt="Tandem" width=500>
 </div>
 
