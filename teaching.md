@@ -9,9 +9,9 @@ comments: false
 
 ### Spring 2025 Discussion Materials
 
-| Topic 📘                    | Slides 📑 | Resources 🔗 |
-| --------------------------- | --------- | ------------ |
-| Introduction to Java        |           |              |
+| Topic 📘                    | Slides 📑 | Resources 🔗                                                                          |
+| --------------------------- | --------- | ------------------------------------------------------------------------------------ |
+| Introduction to Java        |           | [Git Commands CheatSheet][O1] / [Java Basics CheatSheet][O2] / [Tips for Success!][O3]   |
 | Scope, Linked Lists, Arrays |           |              |
 | Inheritance                 |           |              |
 | Iterators, Iterables        |           |              |
@@ -61,6 +61,9 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[O1]: https://docs.google.com/document/d/1OPKYPxTduioZBgba7WIxaSs32KjolvJqeouaDyj-l9w/edit?usp=sharing
+[O2]: https://docs.google.com/document/d/1bYGkMZQfFhGfpcBsefa8CgkQoFKErBpaTOGQZdeqjKk/edit?usp=sharing
+[O3]: https://stellakaval.github.io/cs61btips/
 [P1]: https://docs.google.com/presentation/d/15z2SZ0mIsaZZTCZF5I8EA8Q3QL49R8rpV5PlJyOubqs/edit?usp=sharing
 [P2]: https://www.youtube.com/watch?v=m1zy1tuA6o8
 [P3]: https://docs.google.com/presentation/d/1ub5lH-x_pJ--oH5FJSxJKkMBxyMDRfoPKD8TbkGNPtM/edit#slide=id.p
