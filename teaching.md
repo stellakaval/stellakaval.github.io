@@ -11,7 +11,7 @@ comments: false
 
 | Topic 📘                    | Slides 📑 | Resources 🔗                                                                          |
 | --------------------------- | --------- | ------------------------------------------------------------------------------------ |
-| Introduction to Java        |           | [Git Commands CheatSheet][O1] / [Java Basics CheatSheet][O2] / [Tips for Success!][O3]   |
+| Introduction to Java        |           | [Git Cheatsheet][O1] / [Java Basics Cheatsheet][O2] / [Pro Tips for Success!][O3]   |
 | Scope, Linked Lists, Arrays |           |              |
 | Inheritance                 |           |              |
 | Iterators, Iterables        |           |              |
