@@ -171,4 +171,15 @@ comments: false
 TAs Stella and Kanav Guest Lecture about Software Engineering III: Collaboration.
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/vhEO
+  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/vhEO0LWFbpo?si=8Xhqss5kqVs-KACa" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### [61B FA23] Lecture 31 - Software Engineering II
+
+TAs Stella and Noah Guest Lecture about Software Engineering II: Clean Coding Practices + Documentation.
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/LCibXajLbns" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
