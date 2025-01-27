@@ -11,7 +11,7 @@ comments: false
 
 | Topic 📘                    | Slides 📑          | Resources 🔗                                                                      |
 | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
-| Introduction to Java        |                   | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
+| Introduction to Java        |  [Slides][J1]     | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
 | Scope, Linked Lists, Arrays |                   |              |
 | Inheritance                 |                   |              |
 | Iterators, Iterables        |                   |              |
@@ -61,6 +61,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[J1]: https://docs.google.com/presentation/d/1ZBkHub-M87gvr7yMkv3bz0yueMOenkcNvqzRoOe5mYc/edit?usp=sharing
 [O1]: https://docs.google.com/document/d/1OPKYPxTduioZBgba7WIxaSs32KjolvJqeouaDyj-l9w/edit?usp=sharing
 [O2]: https://docs.google.com/document/d/1bYGkMZQfFhGfpcBsefa8CgkQoFKErBpaTOGQZdeqjKk/edit?usp=sharing
 [O3]: https://stellakaval.github.io/cs61btips/
