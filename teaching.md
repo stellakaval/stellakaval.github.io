@@ -8,12 +8,15 @@ comments: false
 ## CS61B (Data Structures)
 
 ### Spring 2025 Discussion Materials
+- Bridge Discussion: Tuesday 3-5 PM ([Anonymous Feedback Form][GG3])
+- Project Intro Parties: Thursday 1-2 PM
+- Office Hours: Thursday 3-5 PM
 
 | Topic 📘                    | Slides 📑          | Resources 🔗                                                                      |
 | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
 | Introduction to Java        |  [Slides][J1]     | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
-| Scope, Linked Lists, Arrays |  [Slides][GG1]                 |              |
-| Inheritance                 |                   |              |
+| Scope, Linked Lists, Arrays |  [Slides][GG1]    | [Proj1A Intro Video][X3] / [Intro Slides][P1]           |
+| Inheritance                 |   [Slides][GG2]                |              |
 | Iterators, Iterables        |                   |              |
 | Asymptotics, Disjoint Sets  |           |              |
 | ADTs, Asymptotics, BSTs     |           |              |
@@ -62,6 +65,8 @@ comments: false
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
 [GG1]: https://docs.google.com/presentation/d/1O6P_sX1FnYi-ZKph6SPtpvsE0B8_mRAObLOMF7EIJrk/edit?usp=sharing
+[GG2]: https://docs.google.com/presentation/d/1PjME5TU_Uh86s2WRorb5a9HcuvKDxj8_fFsmyN7AjLw/edit?usp=sharing
+[GG3]: https://forms.gle/pDe1LEkg9Fp1M4yy7
 [J1]: https://docs.google.com/presentation/d/1ZBkHub-M87gvr7yMkv3bz0yueMOenkcNvqzRoOe5mYc/edit?usp=sharing
 [O1]: https://docs.google.com/document/d/1OPKYPxTduioZBgba7WIxaSs32KjolvJqeouaDyj-l9w/edit?usp=sharing
 [O2]: https://docs.google.com/document/d/1bYGkMZQfFhGfpcBsefa8CgkQoFKErBpaTOGQZdeqjKk/edit?usp=sharing
