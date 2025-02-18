@@ -16,8 +16,8 @@ comments: false
 | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
 | Introduction to Java        |  [Slides][J1]     | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
 | Scope, Linked Lists, Arrays |  [Slides][GG1]    | [Proj1A Intro Video][X3] / [Intro Slides][P1]           |
-| Inheritance                 |   [Slides][GG2]                |              |
-| Iterators, Iterables        |                   |              |
+| Inheritance                 |   [Slides][GG2]                |      [Proj1B Intro Video][GG5] / [Intro Slides][GG6]         |
+| Iterators, Iterables        |   [Slides][GG4]                |              |
 | Asymptotics, Disjoint Sets  |           |              |
 | ADTs, Asymptotics, BSTs     |           |              |
 | B-Trees, LLRBs, Hashing     |           |              |
@@ -67,6 +67,9 @@ comments: false
 [GG1]: https://docs.google.com/presentation/d/1O6P_sX1FnYi-ZKph6SPtpvsE0B8_mRAObLOMF7EIJrk/edit?usp=sharing
 [GG2]: https://docs.google.com/presentation/d/1PjME5TU_Uh86s2WRorb5a9HcuvKDxj8_fFsmyN7AjLw/edit?usp=sharing
 [GG3]: https://forms.gle/pDe1LEkg9Fp1M4yy7
+[GG4]: https://docs.google.com/presentation/d/1x5s97p4-UxmOnnIPimOK9sA_T2IQC8_vkEpc3E7whd8/edit?usp=sharing
+[GG5]: https://www.youtube.com/watch?v=m1zy1tuA6o8
+[GG6]: https://docs.google.com/presentation/d/1UAUWgUdIg7Fm8S0KdIWXcI93njQ6vztlvGxKiDbFPZw/edit?usp=sharing
 [J1]: https://docs.google.com/presentation/d/1ZBkHub-M87gvr7yMkv3bz0yueMOenkcNvqzRoOe5mYc/edit?usp=sharing
 [O1]: https://docs.google.com/document/d/1OPKYPxTduioZBgba7WIxaSs32KjolvJqeouaDyj-l9w/edit?usp=sharing
 [O2]: https://docs.google.com/document/d/1bYGkMZQfFhGfpcBsefa8CgkQoFKErBpaTOGQZdeqjKk/edit?usp=sharing
