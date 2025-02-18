@@ -16,8 +16,8 @@ comments: false
 | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
 | Introduction to Java        |  [Slides][J1]     | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
 | Scope, Linked Lists, Arrays |  [Slides][GG1]    | [Proj1A Intro Video][X3] / [Intro Slides][P1]           |
-| Inheritance, Comparator/ables                 |   [Slides][GG2]                |      [Proj1B Intro Video][GG5] / [Intro Slides][GG6]         |
-| Iterator/ables, Asymptotics 1        |   [Slides][GG4]                |              |
+| Inheritance, Comparator/ables                 |   [Slides][GG2]      |  [Proj1B Intro Video][GG5] / [Intro Slides][GG6]         |
+| Iterator/ables, Asymptotics 1        |   [Slides][GG4]                |    [Anirudh's Asymptotics Cheatsheet][X13]          |
 | Disjoint Sets, Asymptotics 2  |           |              |
 | ADTs, BSTs     |           |              |
 | B-Trees, LLRBs, Hashing     |           |              |
