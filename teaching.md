@@ -17,8 +17,8 @@ comments: false
 | Introduction to Java        |  [Slides][J1]     | [Git Cheatsheet][O1] / [Java Cheatsheet][O2] / [Tips for Success!][O3]   |
 | Scope, Linked Lists, Arrays |  [Slides][GG1]    | [Proj1A Intro Video][X3] / [Intro Slides][P1]           |
 | Inheritance, Comparator/ables                 |   [Slides][GG2]      |  [Proj1B Intro Video][GG5] / [Intro Slides][GG6]         |
-| Iterator/ables, Asymptotics 1        |   [Slides][GG4]                |    [Anirudh's Asymptotics Cheatsheet][X13]          |
-| Disjoint Sets, Asymptotics 2  |           |              |
+| Iterator/ables, Asymptotics 1        |   [Slides][GG4]      |    [Anirudh's Asymptotics Cheatsheet][X13]          |
+| Asymptotics 2  |   [Slides][GG7]        |  [HW2 Intro Video][P4] / [Intro Slides][P5]            |
 | ADTs, BSTs     |           |              |
 | B-Trees, LLRBs, Hashing     |           |              |
 | Graphs, Heaps               |           |              |
@@ -64,6 +64,8 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+
+[GG7]: https://docs.google.com/presentation/d/1PRw3B4BekbyeQGBjoUmo_98TWUc98mG4TogW-60U1j8/edit?usp=sharing
 [GG1]: https://docs.google.com/presentation/d/1O6P_sX1FnYi-ZKph6SPtpvsE0B8_mRAObLOMF7EIJrk/edit?usp=sharing
 [GG2]: https://docs.google.com/presentation/d/1PjME5TU_Uh86s2WRorb5a9HcuvKDxj8_fFsmyN7AjLw/edit?usp=sharing
 [GG3]: https://forms.gle/pDe1LEkg9Fp1M4yy7
