@@ -19,7 +19,7 @@ comments: false
 | Inheritance, Comparator/ables                 |   [Slides][GG2]      |  [Proj1B Intro Video][GG5] / [Intro Slides][GG6]         |
 | Iterator/ables, Asymptotics 1        |   [Slides][GG4]      |    [Anirudh's Asymptotics Cheatsheet][X13]          |
 | Asymptotics 2  |   [Slides][GG7]        |  [HW2 Intro Video][P4] / [Intro Slides][P5]            |
-| ADTs, Disjoint Sets, BSTs     | [Slides][GG9]   |              |
+| ADTs, Disjoint Sets, BSTs     | [Slides][GG9]   | [Proj2A Intro Video][P6] / [Intro Slides][P7]   |
 | B-Trees, LLRBs, Hashing     |           |              |
 | Graphs, Heaps               |           |              |
 | Shortest Paths, MSTs        |           |              |
