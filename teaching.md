@@ -20,7 +20,7 @@ comments: false
 | Iterator/ables, Asymptotics 1        |   [Slides][GG4]      |    [Anirudh's Asymptotics Cheatsheet][X13]          |
 | Asymptotics 2  |   [Slides][GG7]        |  [HW2 Intro Video][P4] / [Intro Slides][P5]            |
 | ADTs, Disjoint Sets, BSTs     | [Slides][GG9]   | [Proj2A Intro Video][P6] / [Intro Slides][P7]   |
-| B-Trees, LLRBs, Hashing     |           |              |
+| B-Trees, LLRBs, Hashing     |  [Slides]GG11[]         |              |
 | Graphs, Heaps               |           |              |
 | Shortest Paths, MSTs        |           |              |
 | Graphs II, Tries            |           |              |
@@ -65,6 +65,7 @@ comments: false
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
 
+[GG11]: https://docs.google.com/presentation/d/1EdAn72S2YIE_X5JqKZU1QYp8SbOogV-FXGTJ3IHiatw/edit?usp=sharing
 [GG9]: https://docs.google.com/presentation/d/1xaNtCuuALldjOcWoUYZQH3sddwMtqj1CUY9QyNmH9nY/edit?usp=sharing
 [GG7]: https://docs.google.com/presentation/d/1PRw3B4BekbyeQGBjoUmo_98TWUc98mG4TogW-60U1j8/edit?usp=sharing
 [GG1]: https://docs.google.com/presentation/d/1O6P_sX1FnYi-ZKph6SPtpvsE0B8_mRAObLOMF7EIJrk/edit?usp=sharing
