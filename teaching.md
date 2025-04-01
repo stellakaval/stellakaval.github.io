@@ -21,8 +21,8 @@ comments: false
 | Asymptotics 2  |   [Slides][GG7]        |  [HW2 Intro Video][P4] / [Intro Slides][P5]            |
 | ADTs, Disjoint Sets, BSTs     | [Slides][GG9]   | [Proj2A Intro Video][P6] / [Intro Slides][P7]   |
 | B-Trees, LLRBs, Hashing     |  [Slides][GG11]         |              |
-| Graphs, Heaps               |  [Slides][GG22]         |              |
-| Shortest Paths, MSTs        |           |              |
+| Graphs, Heaps               |  [Slides][GG22]         | [Proj2B Intro Video][P8] / [Intro Slides][P9]   |
+| Shortest Paths, MSTs        |   [Slides][GG33]        |              |
 | Graphs II, Tries            |           |              |
 | Sorting                     |           |              |
 | More Sorting                |           |              |
@@ -64,6 +64,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[GG33]: https://docs.google.com/presentation/d/1Ly8F6RiRqVeNyy__g6FLzXTJgJEhQY7Mre8hb_LPov4/edit?usp=sharing
 [GG22]: https://docs.google.com/presentation/d/1S0UtkT1Dc4cuh2n4BOxZxyMWvXVexPn6UA39yTlJeQs/edit?usp=sharing
 [GG11]: https://docs.google.com/presentation/d/1EdAn72S2YIE_X5JqKZU1QYp8SbOogV-FXGTJ3IHiatw/edit?usp=sharing
 [GG9]: https://docs.google.com/presentation/d/1xaNtCuuALldjOcWoUYZQH3sddwMtqj1CUY9QyNmH9nY/edit?usp=sharing
