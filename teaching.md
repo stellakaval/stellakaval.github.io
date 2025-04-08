@@ -23,7 +23,7 @@ comments: false
 | B-Trees, LLRBs, Hashing     |  [Slides][GG11]         |              |
 | Graphs, Heaps               |  [Slides][GG22]         | [Proj2B Intro Video][P8] / [Intro Slides][P9]   |
 | Shortest Paths, MSTs        |   [Slides][GG33]        |              |
-| Graphs II, Tries            |           |              |
+| Graphs II, Tries            |   [Slides][https://docs.google.com/presentation/d/1ebij-5j5BrJyrt6XUS2PRGY7HznTAqrfBu8s8TwM5m0/edit?usp=sharing]        | Proj3 Intro Coming Soon             |
 | Sorting                     |           |              |
 | More Sorting                |           |              |
 | Final Review                |           |              |
