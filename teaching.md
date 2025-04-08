@@ -23,7 +23,7 @@ comments: false
 | B-Trees, LLRBs, Hashing     |  [Slides][GG11]         |              |
 | Graphs, Heaps               |  [Slides][GG22]         | [Proj2B Intro Video][P8] / [Intro Slides][P9]   |
 | Shortest Paths, MSTs        |   [Slides][GG33]        |              |
-| Graphs II, Tries            |   [Slides][https://docs.google.com/presentation/d/1ebij-5j5BrJyrt6XUS2PRGY7HznTAqrfBu8s8TwM5m0/edit?usp=sharing]        | Proj3 Intro Coming Soon             |
+| Graphs II, Tries            |   [Slides][GG44]        |              |
 | Sorting                     |           |              |
 | More Sorting                |           |              |
 | Final Review                |           |              |
@@ -64,6 +64,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[GG44]: https://docs.google.com/presentation/d/1ebij-5j5BrJyrt6XUS2PRGY7HznTAqrfBu8s8TwM5m0/edit?usp=sharing
 [GG33]: https://docs.google.com/presentation/d/1Ly8F6RiRqVeNyy__g6FLzXTJgJEhQY7Mre8hb_LPov4/edit?usp=sharing
 [GG22]: https://docs.google.com/presentation/d/1S0UtkT1Dc4cuh2n4BOxZxyMWvXVexPn6UA39yTlJeQs/edit?usp=sharing
 [GG11]: https://docs.google.com/presentation/d/1EdAn72S2YIE_X5JqKZU1QYp8SbOogV-FXGTJ3IHiatw/edit?usp=sharing
