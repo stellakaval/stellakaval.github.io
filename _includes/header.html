@@ -153,4 +153,22 @@
     <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML"></script>
   {% endif %}
     
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Stella Kaval",
+    "url": "https://stellakaval.github.io",
+    "sameAs": [
+      "https://stellakaval.github.io/blog",
+      "https://stellakaval.github.io/teaching"
+    ],
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Stella Kaval",
+      "url": "https://stellakaval.github.io",
+      "description": "{{ site.author.bio | strip_html | normalize_whitespace | escape }}"
+    }
+  }
+  </script>
 </head>

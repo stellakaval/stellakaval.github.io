@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Stella Kaval # author name
-  bio: Hello! I’m Stella, a senior studying Computer Science at UC Berkeley. 👋 Over the last two summers, I've interned as a Software Engineer at Oracle and Microsoft. Since the spring of my sophomore year, I've been a computer science teaching assistant. I also served as the Lead Director for UC Berkeley's CS Kickstart program, an introductory computer science bootcamp for 100+ female CS students. 
+  bio: Hello! I'm Stella, a senior studying Computer Science at UC Berkeley. 👋 Over the last two summers, I've interned as a Software Engineer at Oracle and Microsoft. Since the spring of my sophomore year, I've been a computer science teaching assistant. I also served as the Lead Director for UC Berkeley's CS Kickstart program, an introductory computer science bootcamp for 100+ female CS students. 
   username: stellakaval # general username
   github: stellakaval # github username
   twitter: # twitter username
@@ -43,6 +43,24 @@ defaults:
     values:
       layout: post
       comments: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      priority: 0.7
+  - scope:
+      path: "index.html"
+    values:
+      priority: 1.0
+  - scope:
+      path: "blog"
+    values:
+      priority: 0.8
+  - scope:
+      path: "teaching"
+    values:
+      priority: 0.8
 
 # Jekyll Compose default front matter
 jekyll_compose:
@@ -86,3 +104,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-seo-tag
