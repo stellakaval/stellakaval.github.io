@@ -182,6 +182,14 @@ comments: false
 [R18]: https://www.notion.so/61B-Midterm-2-Review-60e3bc444b7148689283d2d7ae087df2
 [R19]: https://docs.google.com/document/d/1PMoL1xJ9xa6ywQQ8HCc1oxLf2TUCiCaKaatlKYv6RZw/edit
 
+### [61B SP25] Lecture 31 - Software Engineering II
+
+TAs Stella and Kanav Guest Lecture about Software Engineering II: Collaboration.
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/CPScOCVoU1E?si=b7WYUKWZTRf2jahC" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### [61B FA24] Lecture 31 - Software Engineering III
 
 TAs Stella and Kanav Guest Lecture about Software Engineering III: Collaboration.
