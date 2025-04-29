@@ -24,9 +24,9 @@ comments: false
 | Graphs, Heaps               |  [Slides][GG22]         | [Proj2B Intro Video][P8] / [Intro Slides][P9]   |
 | Shortest Paths, MSTs        |   [Slides][GG33]        |              |
 | Graphs II, Tries            |   [Slides][GG44]        |              |
-| Sorting                     |    [Slides][GG55]       |              |
-| More Sorting                |    [Slides][GG66]        |              |
-| Final Review                |           |              |
+| Sorting                     |    [Slides][GG55]       | [Proj3B Intro Video][P10] / [Intro Slides][P11]  |
+| More Sorting                |    [Slides][GG66]       |              |
+| Final Review                |    [Slides][GG77]       | [Cheatsheet 1][X49], [Cheatsheet 2][R15] / [Vidya's iPad Notes!][R17]|
 
 ### Fall 2024 Discussion Materials
 
@@ -64,6 +64,7 @@ comments: false
 | More Sorting                | [Slides][S13] / [Annotated][A13] | [Video][V13] | [Quicksort Demo][R13]                                 |
 | Final Review                | [Slides][S14]                    |              | [Final Cheatsheet!][R15] / [Vidya's iPad Notes!][R17] |
 
+[GG77]: https://docs.google.com/presentation/d/1Ii37kGHmPAIN-EMM1bLmj9e083hC0HGS6rn8-OTsTyQ/edit?usp=sharing
 [GG66]: https://docs.google.com/presentation/d/1lFMIxrAGs-pizTztJKiJNXzox0j4qmEOZ3YUs4lrUAo/edit?usp=sharing
 [GG55]: https://docs.google.com/presentation/d/1DAwTu4bD9oXjOK_PdtVzxSGGlSC7a5CBKksoCU18xkw/edit?usp=sharing
 [GG44]: https://docs.google.com/presentation/d/1ebij-5j5BrJyrt6XUS2PRGY7HznTAqrfBu8s8TwM5m0/edit?usp=sharing
