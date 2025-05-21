@@ -18,3 +18,4 @@ CS courses at Berkeley have been known to provide students with cheatsheets (aka
 | CS161  | [Final](https://drive.google.com/file/d/1LztlX-FIc8lxuAa0ArS5OVFUfGmBeSuv/view?usp=sharing) |
 | CS168  | [Final](https://drive.google.com/file/d/1BUIbY5IBwZAszjBXYrPcBnPFYNXplNCj/view?usp=sharing) |
 | CS188  | [Midterm](https://drive.google.com/file/d/1DyPvOKgu1ogtaKckdCiN61dS6XXMjq03/view?usp=sharing) / [Final](https://drive.google.com/file/d/15F2NaNz8c1RF4q_uOoXHd4urJuC3Pg4X/view?usp=sharing) |
+| CS189  | [Midterm](https://drive.google.com/file/d/1IOdkmgTdhB_eXLY_6Fe8hfQQ-HYOJ-7C/view?usp=sharing) / [Final](https://drive.google.com/file/d/1rsLM1HRgbeN1DyFKV-TJzZ5gUcTJRjMo/view?usp=sharing) |
