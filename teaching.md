@@ -8,9 +8,6 @@ comments: false
 ## CS61B (Data Structures)
 
 ### Spring 2025 Discussion Materials
-- Bridge Discussion: Tuesday 3-5 PM ([Anonymous Feedback Form][GG3])
-- Project Intro Parties: Thursday 1-2 PM
-- Office Hours: Thursday 3-5 PM
 
 | Topic 📘                    | Slides 📑          | Resources 🔗                                                                      |
 | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
