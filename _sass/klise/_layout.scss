@@ -264,6 +264,19 @@
   }
 }
 
+// Teaching archive links
+.teaching-page .post-item-title a {
+  color: $text-link-blue;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+
+  &:hover,
+  &:focus {
+    color: $text-link-blue-active;
+  }
+}
+
 // Footer
 .footer {
   margin-top: 8em;
