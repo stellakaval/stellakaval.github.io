@@ -301,6 +301,20 @@
   }
 }
 
+.webring {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
+  font-family: monospace;
+  font-size: 12px;
+
+  img {
+    display: block;
+  }
+}
+
 .not-found {
   text-align: center;
   display: flex;

@@ -88,3 +88,13 @@ comments: false
     <a href="https://www.codeforfun.com/" target="_blank" rel="noopener">Code for Fun Coding Camp Instructor</a>
   </h3>
 </article>
+
+<h2>Other Student Websites</h2>
+
+<div class="webring" aria-label="Cal Webring navigation">
+  <a href="https://calwebring.com/prev?current=https://stellakaval.github.io" aria-label="Previous Cal Webring site">←</a>
+  <a href="https://calwebring.com" aria-label="Cal Webring">
+    <img src="https://calwebring.com/badge.png" width="36" alt="Cal Webring" />
+  </a>
+  <a href="https://calwebring.com/next?current=https://stellakaval.github.io" aria-label="Next Cal Webring site">→</a>
+</div>
