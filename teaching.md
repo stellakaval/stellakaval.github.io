@@ -22,7 +22,7 @@ comments: false
 </article> <h2> 2025 </h2> <article class="teaching-entry">
 <a class="post-item teaching-card" href="/teaching/spring-2025-discussion-materials/" aria-label="CS61B Spring 2025 Discussion Materials">
 <span class="teaching-thumb materials logo-tile" aria-hidden="true">
-<img class="brand-logo" src="/assets/img/teaching/bee.png" alt="CS61B logo">
+<img class="brand-logo" src="/assets/img/teaching/bee.webp" alt="CS61B logo">
 </span>
 <div>
 <h3 class="post-item-title">CS61B Spring 2025 Discussion Materials</h3>
@@ -56,7 +56,7 @@ comments: false
 </article> <h2> 2024 </h2> <article class="teaching-entry">
 <a class="post-item teaching-card" href="/teaching/fall-2024-discussion-materials/" aria-label="CS61B Fall 2024 Discussion Materials">
 <span class="teaching-thumb materials logo-tile" aria-hidden="true">
-<img class="brand-logo" src="/assets/img/teaching/bee.png" alt="CS61B logo">
+<img class="brand-logo" src="/assets/img/teaching/bee.webp" alt="CS61B logo">
 </span>
 <div>
 <h3 class="post-item-title">CS61B Fall 2024 Discussion Materials</h3>
@@ -78,7 +78,7 @@ comments: false
 </article> <h2> 2023 </h2> <article class="teaching-entry">
 <a class="post-item teaching-card" href="/teaching/fall-2023-discussion-materials/" aria-label="CS61B Fall 2023 Discussion Materials">
 <span class="teaching-thumb materials logo-tile" aria-hidden="true">
-<img class="brand-logo" src="/assets/img/teaching/bee.png" alt="CS61B logo">
+<img class="brand-logo" src="/assets/img/teaching/bee.webp" alt="CS61B logo">
 </span>
 <div>
 <h3 class="post-item-title">CS61B Fall 2023 Discussion Materials</h3>
@@ -142,7 +142,7 @@ comments: false
 <article class="teaching-entry">
 <a class="post-item teaching-card" href="https://cs61b-2.gitbook.io/cs61b-textbook/" target="_blank" rel="noopener noreferrer" aria-label="CS61B Textbook (opens in a new tab)">
 <span class="teaching-thumb logo-tile" aria-hidden="true">
-<img class="brand-logo" src="/assets/img/teaching/bee.png" alt="">
+<img class="brand-logo" src="/assets/img/teaching/bee.webp" alt="">
 </span>
 <div>
 <h3 class="post-item-title">CS61B Textbook</h3>

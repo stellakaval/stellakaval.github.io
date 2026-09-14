@@ -4,7 +4,7 @@ date: 2024-05-04 09:45:47 +07:00
 modified: 2024-05-04 09:45:47 +07:00
 tags: []
 description:
-thumbnail: /UniversityBuilding.JPG
+thumbnail: /assets/img/travel/UniversityBuilding-480.webp
 thumbnail_style: photo
 card_description: "Student nations, sittnings, and Swedish traditions from my semester at Lund University."
 ---
@@ -18,7 +18,7 @@ card_description: "Student nations, sittnings, and Swedish traditions from my se
 
 <figure class="travel-photo">
   <a href="/UniversityBuilding.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Lund University">
-    <img src="/UniversityBuilding.JPG" alt="Lund University" width="2963" height="2172" loading="eager" decoding="async">
+    <img src="/assets/img/travel/UniversityBuilding-800.webp" srcset="/assets/img/travel/UniversityBuilding-480.webp 480w, /assets/img/travel/UniversityBuilding-800.webp 800w, /assets/img/travel/UniversityBuilding-1200.webp 1200w" sizes="(max-width: 600px) calc(100vw - 40px), 560px" alt="Lund University" width="2963" height="2172" loading="eager" decoding="async">
   </a>
   <figcaption>Lund University, my home for the semester.</figcaption>
 </figure>
@@ -33,7 +33,7 @@ With my Swedish roots, I was excited to learn more about my heritage. After rese
 
 <figure class="travel-photo">
   <a href="/VGKitchenVolunteering.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Volunteering at Västgöta nation">
-    <img src="/VGKitchenVolunteering.JPG" alt="Volunteering at Västgöta nation" width="2895" height="2513" loading="lazy" decoding="async">
+    <img src="/assets/img/travel/VGKitchenVolunteering-800.webp" srcset="/assets/img/travel/VGKitchenVolunteering-480.webp 480w, /assets/img/travel/VGKitchenVolunteering-800.webp 800w, /assets/img/travel/VGKitchenVolunteering-1200.webp 1200w" sizes="(max-width: 600px) min(380px, calc(100vw - 40px)), 240px" alt="Volunteering at Västgöta nation" width="2895" height="2513" loading="lazy" decoding="async">
   </a>
   <figcaption>Volunteering in Västgöta nation’s kitchen.</figcaption>
 </figure>
@@ -56,7 +56,7 @@ You can only be a member of one nation, but you can go to other nations’ event
 
 <figure class="travel-photo">
   <a href="/Sittning.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: A sittning in Lund">
-    <img src="/Sittning.JPG" alt="A sittning in Lund" width="2979" height="2160" loading="lazy" decoding="async">
+    <img src="/assets/img/travel/Sittning-800.webp" srcset="/assets/img/travel/Sittning-480.webp 480w, /assets/img/travel/Sittning-800.webp 800w, /assets/img/travel/Sittning-1200.webp 1200w" sizes="(max-width: 600px) min(380px, calc(100vw - 40px)), 240px" alt="A sittning in Lund" width="2979" height="2160" loading="lazy" decoding="async">
   </a>
   <figcaption>Sittnings: an evening of dinner, songs, and student traditions.</figcaption>
 </figure>
@@ -81,7 +81,7 @@ I’ve been to a few sittnings here, each a little different. Whether it was Gö
 
 <figure class="travel-photo">
   <a href="/Valborg.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Valborg celebrations in Lund">
-    <img src="/Valborg.JPG" alt="Valborg celebrations in Lund" width="2994" height="2857" loading="lazy" decoding="async">
+    <img src="/assets/img/travel/Valborg-800.webp" srcset="/assets/img/travel/Valborg-480.webp 480w, /assets/img/travel/Valborg-800.webp 800w, /assets/img/travel/Valborg-1200.webp 1200w" sizes="(max-width: 600px) min(380px, calc(100vw - 40px)), 240px" alt="Valborg celebrations in Lund" width="2994" height="2857" loading="lazy" decoding="async">
   </a>
   <figcaption>Celebrating the arrival of spring at Valborg.</figcaption>
 </figure>
@@ -104,7 +104,7 @@ As for May 1st, it's all about the aftermath and celebration of Valborg. We head
 
 <figure class="travel-photo">
   <a href="/TandemRace.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: The tandem relay race">
-    <img src="/TandemRace.JPG" alt="The tandem relay race" width="2953" height="3323" loading="lazy" decoding="async">
+    <img src="/assets/img/travel/TandemRace-800.webp" srcset="/assets/img/travel/TandemRace-480.webp 480w, /assets/img/travel/TandemRace-800.webp 800w, /assets/img/travel/TandemRace-1200.webp 1200w" sizes="(max-width: 600px) min(380px, calc(100vw - 40px)), 240px" alt="The tandem relay race" width="2953" height="3323" loading="lazy" decoding="async">
   </a>
   <figcaption>The tandem relay adventure from Gothenburg to Lund.</figcaption>
 </figure>
@@ -127,7 +127,7 @@ When we finally rolled back into Lund the next day, we were singing our new favo
 
 <figure class="travel-photo">
   <a href="/Fika.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Fika in Sweden">
-    <img src="/Fika.JPG" alt="Fika in Sweden" width="2783" height="2558" loading="lazy" decoding="async">
+    <img src="/assets/img/travel/Fika-800.webp" srcset="/assets/img/travel/Fika-480.webp 480w, /assets/img/travel/Fika-800.webp 800w, /assets/img/travel/Fika-1200.webp 1200w" sizes="(max-width: 600px) min(380px, calc(100vw - 40px)), 240px" alt="Fika in Sweden" width="2783" height="2558" loading="lazy" decoding="async">
   </a>
   <figcaption>A little time to slow down for fika.</figcaption>
 </figure>
@@ -144,7 +144,7 @@ And then there’s fika: taking a break for coffee and something sweet, usually 
 
 <figure class="travel-photo">
   <a href="/BotanicalGarden.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Lund’s botanical gardens">
-    <img src="/BotanicalGarden.JPG" alt="Lund’s botanical gardens" width="3024" height="2420" loading="lazy" decoding="async">
+    <img src="/assets/img/travel/BotanicalGarden-800.webp" srcset="/assets/img/travel/BotanicalGarden-480.webp 480w, /assets/img/travel/BotanicalGarden-800.webp 800w, /assets/img/travel/BotanicalGarden-1200.webp 1200w" sizes="(max-width: 600px) min(380px, calc(100vw - 40px)), 240px" alt="Lund’s botanical gardens" width="3024" height="2420" loading="lazy" decoding="async">
   </a>
   <figcaption>A quiet moment in Lund’s botanical gardens.</figcaption>
 </figure>
