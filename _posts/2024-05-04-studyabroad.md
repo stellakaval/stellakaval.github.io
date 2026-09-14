@@ -8,91 +8,149 @@ thumbnail: /UniversityBuilding.JPG
 thumbnail_style: photo
 card_description: "Student nations, sittnings, and Swedish traditions from my semester at Lund University."
 ---
+
+<link rel="stylesheet" href="{{ "/assets/css/study-abroad.css" | relative_url }}">
+
+<div class="travel-story" markdown="1">
 ### Lund University
 
-"Hej!" – or hi in Swedish. For my spring semester abroad, I have been immersed in student life at Lund University in Lund, Sweden. Nestled in the southern part of the country, it is a quick one-hour train ride from Copenhagen, Denmark. Lund, known as a "studentenstad" by the Swedes, is alive with student activity. As you stroll along the quaint cobblestone streets, you'll encounter countless biking enthusiasts eagerly cycling to their next destination, long lines at the local ice cream spot, and the stunning cathedral standing proudly at the heart of the city.
+"Hej!" – or hi in Swedish. I’m spending my spring semester abroad at Lund University in Lund, Sweden. Located in southern Sweden, it is a quick one-hour train ride from Copenhagen, Denmark. Lund is a student town. There are bikes everywhere, cobblestone streets, long lines for ice cream, and a big cathedral in the center of town.
 
-<div style="float: right; margin-left: 15px;">
-  <img src="../UniversityBuilding.JPG" alt="University Building" width="225">
-</div>
+<figure class="travel-photo">
+  <a href="/UniversityBuilding.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Lund University">
+    <img src="/UniversityBuilding.JPG" alt="Lund University" width="2963" height="2172" loading="eager" decoding="async">
+  </a>
+  <figcaption>Lund University, my home for the semester.</figcaption>
+</figure>
 
-With my Swedish roots, the excitement of learning more about my heritage drew me to the program. After researching Lund's renowned engineering program and legendary student scene, I knew it was the place to spend my semester abroad! Fast forward to today, and I'm thrilled to share some of the Swedish university traditions I've discovered along the way.
+With my Swedish roots, I was excited to learn more about my heritage. After researching Lund's good engineering program and fun student life, I knew it was the place to spend my semester abroad! Here are some of the Swedish student traditions I’ve gotten to try.
 
 
 
 ### Student Nations
 
-Blekingska, Göteborgs, Hallands, Helsingkrona, Kalmar, Kristianstads, Lunds Malmö, Smålands, Sydskånska, Västgöta, Wermlands, Östgöta – to an outsider, these might all sound like Swedish cities, but to a Lund student, they're the beating heart of student life and community on campus.
+<div class="travel-wrap" markdown="1">
 
-At Lund University, student nations are not just clubs. They are welcoming social hubs each with their own vibe and trademark events. Named after regions in Sweden, these nations once exclusively welcomed students from their respective areas. Now, they're welcome for any student to join! From cozy soup lunches to spirited volleyball tournaments, themed club nights, elegant balls, and even delicious American brunches, nation events can turn any day of the week into a fun social gathering. What's unique is that they're all organized and run entirely by students.
+<figure class="travel-photo">
+  <a href="/VGKitchenVolunteering.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Volunteering at Västgöta nation">
+    <img src="/VGKitchenVolunteering.JPG" alt="Volunteering at Västgöta nation" width="2895" height="2513" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Volunteering in Västgöta nation’s kitchen.</figcaption>
+</figure>
 
-<div style="float: right; margin-left: 15px;">
-  <img src="../VGKitchenVolunteering.JPG" alt="Sittning" width=200>
+Blekingska, Göteborgs, Hallands, Helsingkrona, Kalmar, Kristianstads, Lunds Malmö, Smålands, Sydskånska, Västgöta, Wermlands, Östgöta – these are the names of Lund’s student nations. There are a lot of them!
+
+A lot of student life in Lund happens through the nations. Each one has its own events and a slightly different vibe. Named after regions in Sweden, these nations once exclusively welcomed students from their respective areas. Now, any student can join! They run soup lunches, volleyball tournaments, club nights, balls, and even American brunches. It’s all organized and run by students.
+
+
+
+I especially liked volunteering in Västgöta nation’s kitchen. I helped make 200 pancakes and bake kladdkaka, a Swedish chocolate cake. The other volunteers were really friendly, and cooking together was a nice way to meet people.
+
+You can only be a member of one nation, but you can go to other nations’ events too. That was great as an exchange student.
+
 </div>
-
-One of my most memorable experiences was volunteering at Västgöta nation's kitchen. From flipping 200 pancakes to baking a traditional Swedish kladdkaka, it was a fun crash course in Swedish culture and tradition. What made it even better was the friendliness of fellow Swedish volunteers, who made it a social experience to remember.
-
-While students can only choose to be a member of one nation, all events are open to everyone, creating an inclusive environment that was ideal for an exchange student like me.
-
 
 ### Sittnings
 
-Imagine stepping into a grand ballroom, filled with lively chatter and laughter. Candles cast a warm glow as students mingle, dressed in their finest attire. This is a typical sittning, a cherished tradition in Swedish university social life.
+<div class="travel-wrap photo-left" markdown="1">
 
-Sittnings are special dinner parties that are a common part of student life in Sweden, hosted for various reasons by academic departments or student nations. Some are laid-back, like pajama-themed nights, while others are glamorous affairs, with cocktail dresses and heels.
+<figure class="travel-photo">
+  <a href="/Sittning.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: A sittning in Lund">
+    <img src="/Sittning.JPG" alt="A sittning in Lund" width="2979" height="2160" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Sittnings: an evening of dinner, songs, and student traditions.</figcaption>
+</figure>
 
-The sittning atmosphere is snug and cozy, reminiscent of the Oscars. A three-course meal is served, with dessert always a favorite. And a fun fact: at fancier sittnings, you're only allowed to leave your seat between courses, waiting for the green light.
+A sittning is a student dinner with a lot of singing. Some of the ones I went to were in big halls with candles and everyone dressed up.
 
-<div style="float: right; margin-left: 15px;">
-  <img src="../Sittning.JPG" alt="Sittning" width=250>
+Departments and student nations host them for different occasions. Some have casual themes, like pajamas, while others call for dresses and heels.
+
+There’s usually a three-course meal. At the fancier sittnings, you’re only supposed to leave your seat between courses, so you have to wait for the green light.
+
+
+
+"Skål!" There are lots of toasts and songs throughout dinner. Students bring songbooks and pass them around for friends to sign. I’ve gotten plenty of practice singing "Helan går" and "Jesus lever"!
+
+I’ve been to a few sittnings here, each a little different. Whether it was Göteborgs nation's new student finsittning, Västgöta's tacksittning for volunteers, or Östgöta's engineering student sittning, each one gave me some great memories and helped me feel more at home in Lund.
+
 </div>
-
-"Skal!" – or a toast. A key part of a sittning is toasts. Every Lund student has a songbook filled with quirky tunes and heartfelt messages, and passing it around for signatures is a rite of passage. Trust me, you haven't experienced Swedish culture until you've belted out tunes like "Helan går" or "Jesus lever" at a sittning!
-
-I've had the opportunity to attend several sittnings during my time here, each offering its own distinct charm. Whether it was Göteborgs nation's new student finsittning, Västgöta's tacksittning for volunteers, or Östgöta's engineering student sittning, each occasion left a lasting memory, deepening my appreciation for Swedish customs and community spirit.
-
 
 ### Valborg 
 
+<div class="travel-wrap" markdown="1">
+
+<figure class="travel-photo">
+  <a href="/Valborg.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Valborg celebrations in Lund">
+    <img src="/Valborg.JPG" alt="Valborg celebrations in Lund" width="2994" height="2857" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Celebrating the arrival of spring at Valborg.</figcaption>
+</figure>
+
 Valborg is like the Super Bowl of Lund, marking the beginning of spring in Sweden. For context, Lund is freezing cold in the winter, so when the sun finally emerges, Swedes become sun worshipers.
 
-Kvalborg, the day before Valborg, kicks things off with a bang. Student nations hold events to amp up excitement for Valborg. My friends and I camped out to score tickets to Västgöta nation's event, and it was one of the best festivals I have attended. With Swedish artists performing, sponsors handing out gifts, and a huge stage setup, we were in for a day and evening of non-stop celebrations. 
+Kvalborg, the day before Valborg, kicks things off with a bang. Student nations hold events to amp up excitement for Valborg. My friends and I camped out to score tickets to Västgöta nation's event, and it was one of the best festivals I have attended. There were Swedish artists performing on a huge stage and sponsors handing out gifts. We stayed through the evening. 
 
-<div style="float: right; margin-left: 15px;">
-  <img src="../Valborg.JPG" alt="Valborg" width=250>
+
+
+Valborg itself happens on the last day of April and is the most important day of the week-long celebration. Every student flocks to Stadsparken, Lund's main city park, for a day of hanging out and celebrating. We arrived bright and early, armed with blankets, snacks, and a portable grill. The park filled up quickly as everyone found a spot. We made sure to arrive at 6 am to snag a prime spot away from the porta-potties, and we stayed out all day. Around 4 pm, the city cleared out students to prepare for a massive bonfire—a tradition that occurs in towns throughout Sweden. 
+
+As for May 1st, it's all about the aftermath and celebration of Valborg. We headed to the botanical gardens and spent a relaxed day recovering in the sunshine.
+
 </div>
 
-Valborg itself happens on the last day of April and is the most important day of the week-long celebration. Every student flocks to Stadsparken, Lund's main city park, for a day of hanging out and celebrating. We arrived bright and early, armed with blankets, snacks, and a portable grill. The park was buzzing with excitement as students claimed their spots for the day-long festivities. We made sure to arrive at 6 am to snag a prime spot away from the porta-potties, and we stayed out all day. Around 4 pm, the city cleared out students to prepare for a massive bonfire—a tradition that occurs in towns throughout Sweden. 
-
-As for May 1st, it's all about the aftermath and celebration of Valborg. We headed to the botanical gardens and enjoyed a relaxed day of recovery and sunshine.
-
 ### Tandem
+
+<div class="travel-wrap photo-left" markdown="1">
+
+<figure class="travel-photo">
+  <a href="/TandemRace.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: The tandem relay race">
+    <img src="/TandemRace.JPG" alt="The tandem relay race" width="2953" height="3323" loading="lazy" decoding="async">
+  </a>
+  <figcaption>The tandem relay adventure from Gothenburg to Lund.</figcaption>
+</figure>
 
 Have you ever heard of a tandem relay race? I definitely hadn't until I got to Lund and discovered it was one of the biggest traditions on campus! Essentially, teams of students decide to race from Gothenburg back to Lund, all on tandem bikes.
 
 So, my friend and I decided to jump in on the action with the Västgöta nation team. We decided to go all out and dressed up as Tiger Kings (thanks Netflix), and off we went on this epic adventure of biking, bussing, and partying our way back to Lund!
 
-<div style="float: right; margin-left: 15px;">
-  <img src="../TandemRace.JPG" alt="Tandem" width=250>
+
+
+We left at 11 am on a Friday. We were playing games, cracking jokes, and just soaking in the vibes with our new Swedish friends on the bus ride up to Gothenburg. When we finally reached Gothenburg, everywhere you looked, there were teams in their crazy costumes, all pumped up and ready to race. Ready…set…go! The tandem kicked off in the center of Gothenburg, bikes zooming to pass each other. Somewhere along the way, we made a pit stop for a rave in Varberg at 2 am. We danced in the middle of the night with a bunch of exhausted but hyped-up students. By the time our turn to cycle came at 3 am, we were pumped and ready to go. We hopped on the tandem bike and pedaled our hearts out to the tune of Espresso by Sabrina Carpenter, covering a solid 13 km stretch from Varberg. It wasn't easy, I'll admit, but having other teams cheering us on kept us going. Eventually, we met up with our teammates, passed the bike to the next two racers, and continued our journey back to Lund.
+
+When we finally rolled back into Lund the next day, we were singing our new favorite Swedish song, "Tigerjakt." To top it all off, our team received the prize for being the closest to the target finish time!
+
 </div>
-
-Our journey kicked off at 11 am on a Friday. We were playing games, cracking jokes, and just soaking in the vibes with our new Swedish friends on the bus ride up to Gothenburg. When we finally reached Gothenburg, everywhere you looked, there were teams in their crazy costumes, all pumped up and ready to race. Ready…set…go! The tandem kicked off in the center of Gothenburg, bikes zooming to pass each other. Somewhere along the way, we made a pit stop for a rave in Varberg at 2 am. We danced in the middle of the night with a bunch of exhausted but hyped-up students. By the time our turn to cycle came at 3 am, we were pumped and ready to go. We hopped on the tandem bike and pedaled our hearts out to the tune of Espresso by Sabrina Carpenter, covering a solid 13 km stretch from Varberg. It wasn't easy, I'll admit, but having other teams cheering us on kept us going. Eventually, we met up with our teammates, passed the bike to the next two racers, and continued our journey back to Lund.
-
-When we finally rolled back into Lund the next day, we were belting out our newfound favorite Swedish tune, "Tigerjakt." To top it all off, our team received the prize for being the closest to the target finish time! 
-
 
 ### Fika
 
-<div style="float: right; margin-left: 15px; margin-top: 15px;">
-  <img src="../Fika.JPG" alt="Fika" width=200>
+<div class="travel-wrap" markdown="1">
+
+<figure class="travel-photo">
+  <a href="/Fika.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Fika in Sweden">
+    <img src="/Fika.JPG" alt="Fika in Sweden" width="2783" height="2558" loading="lazy" decoding="async">
+  </a>
+  <figcaption>A little time to slow down for fika.</figcaption>
+</figure>
+
+And then there’s fika: taking a break for coffee and something sweet, usually with friends. I’ve eaten a lot of good kanelbullar (cinnamon buns) here. One cafe even asked me to put my laptop away because they had a no-laptop policy!
+
 </div>
 
-Last but not least: fika. It's like the Swedish version of a coffee break, but way cooler. Imagine cozy cafes, delicious pastries, and good company. It's more than just a break—it's a chance to unwind, connect with friends, and eat some seriously good kanelbullar (cinnamon buns). And one time they asked me to put away my laptop because of their cafe policy so everyone could really savor the fika moment!
+
 
 ### Takeaways
 
-<div style="float: right; margin-left: 15px; margin-top: 15px;">
-  <img src="../BotanicalGarden.JPG" alt="Garden" width=200 >
+<div class="travel-wrap photo-left" markdown="1">
+
+<figure class="travel-photo">
+  <a href="/BotanicalGarden.JPG" target="_blank" rel="noopener" aria-label="View full-size photo: Lund’s botanical gardens">
+    <img src="/BotanicalGarden.JPG" alt="Lund’s botanical gardens" width="3024" height="2420" loading="lazy" decoding="async">
+  </a>
+  <figcaption>A quiet moment in Lund’s botanical gardens.</figcaption>
+</figure>
+
+I’m really glad I chose Lund. I got to learn more about my Swedish roots, meet new friends, and try things I hadn’t even heard of before coming here. If you’re thinking about studying abroad in Sweden, I’d definitely recommend it. Tack för allt, Lund! (Thanks for everything, Lund!)
+
 </div>
 
-Lund has been a student experience like no other. It's taught me to embrace new cultures, step out of my comfort zone, and make memories that will last a lifetime. So, if you ever find yourself in Scandinavia, don't sleep on Lund. It's worth the visit! Until next time, tack för allt, Lund! (Thanks for everything, Lund!)
+</div>
