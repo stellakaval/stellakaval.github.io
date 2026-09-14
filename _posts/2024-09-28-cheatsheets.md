@@ -4,6 +4,9 @@ date: 2024-08-11 09:45:47 +07:00
 modified: 2025-01-12 09:45:47 +07:00
 tags: []
 description:
+thumbnail: /assets/img/blog/cheatsheets.svg
+thumbnail_style: illustration
+card_description: "My collection of reference sheets for UC Berkeley computer science midterms and finals."
 ---
 
 CS courses at Berkeley have been known to provide students with cheatsheets (aka reference sheets) during midterm and final exams. Here, I've complied my cheatsheets over the years to help others with their studying!

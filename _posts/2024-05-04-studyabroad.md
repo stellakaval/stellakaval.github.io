@@ -4,6 +4,9 @@ date: 2024-05-04 09:45:47 +07:00
 modified: 2024-05-04 09:45:47 +07:00
 tags: []
 description:
+thumbnail: /UniversityBuilding.JPG
+thumbnail_style: photo
+card_description: "Student nations, sittnings, and Swedish traditions from my semester at Lund University."
 ---
 ### Lund University
 
