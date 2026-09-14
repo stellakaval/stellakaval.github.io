@@ -1,0 +1,21 @@
+
+.page-content a.teaching-card{color:inherit;text-decoration:none;border-radius:7px;transition:background .15s}
+.page-content a.teaching-card::after{content:none}
+.page-content a.teaching-card:hover{color:inherit;background:#8881}
+.page-content a.teaching-card:focus-visible{outline:2px solid #728dd7;outline-offset:3px}
+
+.teaching-thumb.logo-tile{background:#fff;box-shadow:inset 0 0 0 1px #e9e9e9}
+.teaching-thumb img.brand-logo{position:static;width:84%;height:82%;object-fit:contain;inset:auto}
+.teaching-thumb.code.logo-tile{background:#181818}
+.teaching-thumb.code img.brand-logo{height:74%}
+
+.page-content .post-item-title a[target="_blank"]::after{content:none}
+.page-content .post-item{display:flex;align-items:center;gap:22px;padding:15px 0;margin:0;border-bottom:1px solid #8882}
+.page-content .post-item-title{margin:0!important;line-height:1.5;font-size:17px;font-weight:500}
+.teaching-thumb{width:168px;aspect-ratio:16/9;flex:0 0 168px;position:relative;overflow:hidden;border-radius:7px;display:flex;align-items:center;justify-content:center;background:#e9edf5;text-decoration:none!important;color:#35465b}
+.teaching-thumb img{width:100%;height:100%;object-fit:cover;margin:0;position:absolute;inset:0}
+.play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:34px;height:25px;display:grid;place-items:center;border-radius:7px;background:#111b;color:white;font-size:12px}
+.tile-icon{font-size:32px;display:block;text-align:center;line-height:1.3}.tile-caption{font-size:10px;letter-spacing:1.7px;font-weight:700}.materials{background:#edf0fc;color:#4e5687}.kickstart{background:#f8eddb;color:#866430}.math{background:#e6f0e8;color:#3d7050}.code{background:#f2e8f3;color:#825780}
+.resource-label{display:block;font-size:12px;color:#767676;margin-top:7px}.page-content h2{margin-top:30px!important;margin-bottom:8px!important}.page-content h2:first-child{margin-top:8px!important}
+[data-theme=dark] .resource-label{color:#aaa}.teaching-thumb:hover{filter:brightness(.95)}.teaching-thumb:focus-visible{outline:3px solid #728dd7;outline-offset:3px}
+@media(max-width:520px){.page-content .post-item{gap:14px}.teaching-thumb{width:112px;flex-basis:112px}.page-content .post-item-title{font-size:14px}.tile-icon{font-size:25px}.tile-caption{font-size:8px}.resource-label{font-size:11px}}
