@@ -1,0 +1,10 @@
+.page-content .post-photo{margin:0 0 24px}
+.page-content .post-photo a{display:block;border:0;background:none}
+.page-content .post-photo img{display:block;width:100%;height:auto;margin:0;border-radius:8px}
+.page-content .post-photo-hero{margin-bottom:30px}
+.post-photo-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start;margin:32px 0}
+.page-content .post-photo-gallery .post-photo{margin:0}
+.post-photo-gallery .post-photo:only-child{grid-column:1/-1}
+.page-content .post-photo-brand{max-width:220px;justify-self:center;align-self:center}
+.post-photo a:focus-visible{outline:2px solid #728dd7;outline-offset:4px;border-radius:8px}
+@media(max-width:520px){.post-photo-gallery{grid-template-columns:1fr;gap:20px}.page-content .post-photo-brand{max-width:180px}}
