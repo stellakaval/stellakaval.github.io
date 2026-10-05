@@ -9,6 +9,8 @@
 .page-content .blog-card h3{font-size:17px;font-weight:500;line-height:1.5;margin:0}
 .page-content .blog-card p{font-size:13px;line-height:1.6;color:#767676;margin:6px 0}
 .blog-action{font-size:12px;color:#767676}
+.blog-date{display:block;font-size:11px;line-height:1.5;color:#767676;margin-bottom:3px}
+[data-theme=dark] .blog-date{color:#aaa}
 [data-theme=dark] .blog-card p,[data-theme=dark] .blog-action{color:#aaa}
 @media(max-width:520px){.page-content .blog-card{gap:14px}.blog-thumbnail{width:112px;flex-basis:112px}.page-content .blog-card h3{font-size:14px}.page-content .blog-card p{font-size:12px}}
 /* Match the teaching cards: 94.5px thumbnail plus 15px vertical padding. */

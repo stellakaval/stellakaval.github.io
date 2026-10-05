@@ -22,6 +22,7 @@ comments: false
         {% if post.thumbnail %}<img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy">{% else %}<span>Notes</span>{% endif %}
       </span>
       <div class="blog-card-copy">
+        <time class="blog-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
         <h3>{{ post.title | escape }}</h3>
         <p>{{ post.card_description | default: post.description | escape }}</p>
         <span class="blog-action">Read article →</span>
