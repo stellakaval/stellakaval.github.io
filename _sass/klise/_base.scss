@@ -141,14 +141,15 @@ ul {
   li {
     display: list-item;
     text-align: -webkit-match-parent;
+    position: relative;
   }
   li::before {
     content: "\FE63";
     display: inline-block;
     top: -1px;
     width: 1.2em;
-    position: relative;
-    margin-left: -1.3em;
+    position: absolute;
+    left: -1.3em;
     font-weight: 700;
   }
 }
