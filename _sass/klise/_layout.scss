@@ -213,6 +213,26 @@
     max-width: 393px;
     line-height: 1.688;
   }
+
+  .author-links {
+    margin-top: 0.9em;
+    font-size: 0.95em;
+
+    a {
+      text-decoration: none;
+      opacity: 0.85;
+
+      &:hover {
+        opacity: 1;
+        text-decoration: underline;
+      }
+    }
+
+    span {
+      margin: 0 0.5em;
+      opacity: 0.4;
+    }
+  }
 }
 
 // Content
