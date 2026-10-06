@@ -28,8 +28,8 @@ I just posted mine internally on Workplace, and wow, writing it made me realize 
 
 ## What I'm most proud of 🏆
 
-- **Working on 0→1 internal tools.** My first big project was an internal DevX troubleshooting tool, and after I sat down with the engineers who used it and shipped fixes, usage doubled, which taught me that talking to your users isn't optional, even when your users are coworkers.
-- **Leading our team's AI push.** I became the AI person: I ran all our AI trainings, built every one of our original skills from scratch, and showed everyone how to actually use Claude Code in their daily workflow, not just play with it, which is a big reason I got promoted to IC4 in under a year, and at the AI hackathon I was named an outstanding performer and got a personal email from Zuck (*still not over it*).
+- **Working on 0→1 internal tools.** My first big project was an internal DevX troubleshooting tool, and sitting down with the engineers who used it and shipping fixes doubled usage, which taught me that talking to your users isn't optional, even when your users are coworkers.
+- **Leading our team's AI push.** I became the AI person: I ran all our AI trainings, built every one of our original skills from scratch, and got the team actually using Claude Code daily instead of just playing with it, which is a big reason I made IC4 in under a year, and at the AI hackathon I was named an outstanding performer and got a personal email from Zuck (*still not over it*).
 - **Migrating our codebase to Rust.** The most technically challenging and fun thing I did all year. Worth it.
 - **Hosting student visits.** I brought 140 UC Berkeley students through Meta SF to learn about engineering careers.
 - **Becoming a Muse power user.** I was an early power user of Muse, our new product, and one of the memes I made got retweeted by Alexandr Wang.
