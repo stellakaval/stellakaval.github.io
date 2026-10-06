@@ -215,22 +215,25 @@
   }
 
   .author-links {
-    margin-top: 0.9em;
-    font-size: 0.95em;
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    gap: 1.1em;
 
     a {
-      text-decoration: none;
-      opacity: 0.85;
+      display: inline-flex;
+      opacity: 0.6;
+      transition: opacity 0.2s ease;
 
       &:hover {
         opacity: 1;
-        text-decoration: underline;
       }
-    }
 
-    span {
-      margin: 0 0.5em;
-      opacity: 0.4;
+      svg {
+        width: 20px;
+        height: 20px;
+        fill: currentColor;
+      }
     }
   }
 }
