@@ -37,7 +37,6 @@ I just posted mine internally on Workplace, and wow, writing it made me realize 
 - **Hosting student visits.** I brought 140 UC Berkeley students through Meta SF to learn about engineering careers.
 
 - **Becoming a Muse power user.** I was an early power user of Muse, our new product, and one of the memes I made got retweeted by Alexandr Wang.
-{: .badge-bullets }
 
 ## What this year taught me 💡
 
@@ -48,7 +47,6 @@ I just posted mine internally on Workplace, and wow, writing it made me realize 
 - **Being in person speeds everything up early on.** As a new grad, nothing beats hallway questions, hearing senior engineers think out loud, and getting unstuck in five minutes instead of five hours.
 
 - **Your first team matters a lot.** At a big company, switching teams is harder than you'd expect, especially early on, so research your first team and push for the one you want, and don't forget the side doors: hackathons, side projects, and cross-team relationships led to some of my favorite work this year.
-{: .badge-bullets }
 
 ## Tips (aka what I wish everyone knew on day one) 📝
 
@@ -59,7 +57,6 @@ I just posted mine internally on Workplace, and wow, writing it made me realize 
 - **Find a mentor.** I found one with 13 years at Meta, and it changed my whole experience: real code review comments, check-ins on how I was doing, caring whether I was learning or just closing tasks, and a steady push toward more scope.
 
 - **Stay curious.** Some of my best work came from things nobody assigned me, and the random experiments and side projects I picked up out of pure curiosity ended up saving my team real money, so don't let a big company quietly make you feel like you should stay in your lane. *Don't. Wander.*
-{: .badge-bullets }
 
 ## What's next 👀
 
