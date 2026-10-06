@@ -63,16 +63,12 @@ I just posted mine internally on Workplace, and wow, writing it made me realize 
 
 ## What's next 👀
 
-I'm a people person. I love meetings (yes, really), whiteboarding, and being surrounded by people who push me to think harder every day.
-
-**Smaller team, bigger ownership.** I'm ready for a place where I have more ownership, more visibility, and a real say in what I work on.
-
-**Which is why I'm joining Anthropic!** I start October 13.
-
-AI is moving insanely fast, and I want to be at the frontier, right in the middle of building it.
-
 After a year of leading AI adoption on my team, I kept coming back to the questions behind the tools: what these models should and shouldn't do, who decides, and how we make sure they're safe. At Anthropic, those aren't side questions. Safety research, interpretability, and responsible scaling sit right next to product work instead of trailing behind it.
 
-And the culture. Everyone I talked to was thoughtful, low-ego, and fine saying "I'm not sure." People care about getting it right more than being right, and after this year taught me that culture is something everyone builds, I wanted to help build one I believe in.
+**Smaller team, bigger ownership.** AI is moving insanely fast, and I want to be at the frontier, right in the middle of building it, with real ownership and a real say in what I work on.
+
+I'm a people person. I love meetings (yes, really), whiteboarding, and being surrounded by people who push me to think harder every day. Everyone I talked to was thoughtful, low-ego, and fine saying "I'm not sure." People care about getting it right more than being right, and after this year taught me that culture is something everyone builds, I wanted to help build one I believe in.
+
+**Which is why I'm joining Anthropic!** I start October 13.
 
 [← Back to the blog]({{ '/blog/' | relative_url }})
