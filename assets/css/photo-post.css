@@ -9,8 +9,7 @@
 .post-photo a:focus-visible{outline:2px solid #728dd7;outline-offset:4px;border-radius:8px}
 @media(max-width:520px){.post-photo-gallery{grid-template-columns:1fr;gap:20px}.page-content .post-photo-brand{max-width:180px}}
 
-.page-content ol.badge-tips{list-style:decimal outside;padding-left:1.5em;margin-left:0}
-.page-content ol.badge-tips>li{padding-left:.35em;margin-bottom:1.25em}
-.page-content ol.badge-tips>li::before{content:none}
-.page-content ol.badge-tips>li::marker{font-weight:700}
-.page-content ol.badge-tips>li>p{margin:0}
+.page-content ul.badge-bullets{list-style:disc outside;padding-left:1.5em;margin-left:0}
+.page-content ul.badge-bullets>li{padding-left:.35em;margin-bottom:1.25em}
+.page-content ul.badge-bullets>li::before{content:none}
+.page-content ul.badge-bullets>li>p{margin:0}
