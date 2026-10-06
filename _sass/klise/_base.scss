@@ -139,29 +139,18 @@ figcaption {
 ul {
   list-style: none;
   li {
-    display: list-item;
+    // Flex + baseline alignment keeps the custom marker glued to the
+    // first line of text, even when items contain block paragraphs
+    // (kramdown wraps spaced-out items in <p>)
+    display: flex;
+    align-items: baseline;
+    gap: 0.6em;
     text-align: -webkit-match-parent;
-    position: relative;
-    // Keep the custom marker aligned with the first line when items
-    // contain block paragraphs (kramdown wraps spaced-out items in <p>)
-    &:has(> p) {
-      margin-bottom: 1em;
-    }
-    > p:first-child {
-      margin-top: 0;
-    }
-    > p:last-child {
-      margin-bottom: 0;
-    }
   }
   li::before {
     content: "\FE63";
-    display: inline-block;
-    top: -1px;
-    width: 1.2em;
-    position: absolute;
-    left: -1.3em;
     font-weight: 700;
+    flex: none;
   }
 }
 
