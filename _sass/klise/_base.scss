@@ -142,6 +142,17 @@ ul {
     display: list-item;
     text-align: -webkit-match-parent;
     position: relative;
+    // Keep the custom marker aligned with the first line when items
+    // contain block paragraphs (kramdown wraps spaced-out items in <p>)
+    &:has(> p) {
+      margin-bottom: 1em;
+    }
+    > p:first-child {
+      margin-top: 0;
+    }
+    > p:last-child {
+      margin-bottom: 0;
+    }
   }
   li::before {
     content: "\FE63";
