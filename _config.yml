@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Stella Kaval # author name
-  bio: Hi! I'm Stella 👋 I work at Anthropic in the SF Bay Area (previously Meta, Microsoft, and Oracle). In my free time I love pickleball, golf, painting, reading, and travel!
+  bio: Hi! I'm Stella 👋 I work at Anthropic in the SF Bay Area (previously Meta, Microsoft, and Oracle). I studied computer science at UC Berkeley, where I was a lead teaching assistant. In my free time I love pickleball, golf, painting, reading, and travel!
   username: stellakaval # general username
   github: stellakaval # github username
   twitter: stellakaval # twitter username
