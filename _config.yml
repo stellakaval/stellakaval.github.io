@@ -3,7 +3,7 @@ title: Stella Kaval
 description: Stella's Personal Website
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
-image: assets/img/homepage.png # This image used for Open Graph more info https://ogp.me/
+image: /homepage.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/stellakaval/stellakaval.github.io
 mode: light # default theme "dark" | "light"
 
@@ -13,7 +13,7 @@ author:
   bio: Hi! I'm Stella 👋 I work at Anthropic in the SF Bay Area (previously Meta, Microsoft, and Oracle). In my free time I love pickleball, golf, painting, reading, and travel!
   username: stellakaval # general username
   github: stellakaval # github username
-  twitter: # twitter username
+  twitter: stellakaval # twitter username
   facebook: # facebook username
   email: stellakaval@berkeley.edu # email adress
   avatar: /headshot.png # change with your own avatar
